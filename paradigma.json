@@ -1,0 +1,2060 @@
+[
+  {
+    "question": "Assembler dasturlash tili qanday dasturlash tilllari oilasiga kiradi?",
+    "A": "quyi darajalik",
+    "B": "yuqori darajalik",
+    "C": "quyi va yuqori darajalik",
+    "D": "o’rta darajalik"
+  },
+  {
+    "question": "Fortran dasturlash tili qanday dasturlash tilllari oilasiga kiradi?",
+    "A": "quyi darajalik",
+    "B": "yuqori darajalik",
+    "C": "quyi va yuqori darajalik",
+    "D": "o’rta darajalik"
+  },
+  {
+    "question": "Fortran dasturlash tili nechanchi yilda kim tomonidan ishlab chiqilgan?",
+    "A": "1954 yilda Jon Bekus tomonidan",
+    "B": "1978 yilda Robert Floyd tomonidan",
+    "C": "1972 yilda Alain Kolmerauer tomonidan",
+    "D": "1968 yilda Robert Kovalski tomonidan"
+  },
+  {
+    "question": "Ilmiy-texnik sohada “Paradigma” atamasi kim tomonidan birinchi bо‘lib kiritilgan?",
+    "A": "1962 yilda Tomas Kun tomonidan",
+    "B": "1978 yilda Robert Floyd tomonidan",
+    "C": "1972 yilda Alain Kolmerauer tomonidan",
+    "D": "1968 yilda Robert Kovalski tomonidan"
+  },
+  {
+    "question": "Dasturlash paradigmasi kim tomonidan birinchi bоlib kiritilgan?",
+    "A": "1978 yilda Robert Floyd tomonidan",
+    "B": "1972 yilda Alain Kolmerauer tomonidan",
+    "C": "1968 yilda Robert Kovalski tomonidan",
+    "D": "1974 yilda Devid Uorren tomonidan"
+  },
+  {
+    "question": "Dasturlash paradigmasi – ...",
+    "A": "kompyuter dasturlarini yozish uslubini belgilaydigan g‘oyalar va tushunchalar tо‘plami",
+    "B": "axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "C": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "D": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan"
+  },
+  {
+    "question": "Dasturlash paradigmasi – ...",
+    "A": "dasturlarni yozish uslubini belgilaydigan g‘oyalar va tushunchalar tо‘plami, dasturlashga yondoshish",
+    "B": "axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "C": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "D": "tizimli dasturlash masalalarini, sun’iy intellektni о‘rganish va informatikada yangi inovatsion texnologiyalarni rivojlantirishda shakllandi"
+  },
+  {
+    "question": "Tomas Kun paradigmalarni ...",
+    "A": "tadqiqotlar olib boriladigan aniq ilmiy qarashlar tizimlari deb atagan",
+    "B": "dasturlarni yozish uslubini belgilaydigan g‘oyalar va tushunchalar tо‘plami, dasturlashga yondoshish deb atagan",
+    "C": "kompyuter dasturlarini yozish uslubini belgilaydigan g‘oyalar va tushunchalar tо‘plami deb atagan",
+    "D": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat deb atagan"
+  },
+  {
+    "question": "Paradigma sо‘zi dasturlashda ...",
+    "A": "dasturlarni amalga oshirishning umumiy usulini (texnikasini) taqsimlaydigan belgilar oilasini aniqlash uchun ishlatiladi.",
+    "B": "axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "C": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "D": "tizimli dasturlash masalalarini, sun’iy intellektni о‘rganish va informatikada yangi inovatsion texnologiyalarni rivojlantirishda shakllandi"
+  },
+  {
+    "question": "Kompyuterli dasturlash hamda umumiy dasturiy paradigmalari – ...",
+    "A": "amaliy, nazariy va funksional dasturlash paradigmalaridan iborat",
+    "B": "axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "C": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "D": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan"
+  },
+  {
+    "question": "Amaliy dasturlash – bu ...",
+    "A": "kompyuterlar paydo bо‘lishidan ancha oldin о‘rganilgan axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "B": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "C": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "D": "tizimli dasturlash masalalarini, sun’iy intellektni о‘rganish va informatikada yangi inovatsion texnologiyalarni rivojlantirishda shakllandi"
+  },
+  {
+    "question": "Nazariy dasturlash  – bu ...",
+    "A": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "B": "kompyuterlar paydo bо‘lishidan ancha oldin о‘rganilgan axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi.",
+    "C": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "D": "tizimli dasturlash masalalarini, sun’iy intellektni о‘rganish va informatikada yangi inovatsion texnologiyalarni rivojlantirishda shakllandi"
+  },
+  {
+    "question": "Applikativ dasturlash – bu ...",
+    "A": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "B": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "C": "kompyuterlar paydo bо‘lishidan ancha oldin о‘rganilgan axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "D": "tizimli dasturlash masalalarini, sun’iy intellektni о‘rganish va informatikada yangi inovatsion texnologiyalarni rivojlantirishda shakllandi"
+  },
+  {
+    "question": "Eksperimental dasturlash – ",
+    "A": "tizimli dasturlash masalalarini, sun’iy intellektni о‘rganish va informatikada yangi inovatsion texnologiyalarni rivojlantirishda shakllandi",
+    "B": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "C": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "D": "kompyuterlar paydo bо‘lishidan ancha oldin о‘rganilgan axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi"
+  },
+  {
+    "question": "Dasturlash tili – ...",
+    "A": "kompyuter dasturlarini yozish uchun rasmiy til xisoblanadi",
+    "B": "odatda kombinatorial mantiq yoki λ-hisoblashga asoslangan ",
+    "C": "quyi va yuqori darajali dasturlash tillariga bо‘linadi",
+    "D": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan "
+  },
+  {
+    "question": "Kompyuterda dasturlash – bu ...",
+    "A": "kompyuter mikroprotsessori uchun turli buyruqlar berish, qachon, qayerda nimani о‘zgartirish va nimalarni kiritish yoki chiqarish haqida buyruqlar berishdir",
+    "B": "odatda kombinatorial mantiq yoki λ-hisoblashga asoslangan ",
+    "C": "quyi va yuqori darajali dasturlash tillariga bо‘linadi",
+    "D": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan "
+  },
+  {
+    "question": "Dasturlash tillari – ",
+    "A": "quyi va yuqori darajali dasturlash tillariga bо‘linadi",
+    "B": "til muammolarini xal qiluvchi dasturlarni birlashtiradilar va dasturiy ta’minotni ishlab chikarishga mо‘ljallangan",
+    "C": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan ",
+    "D": "odatda kombinatorial mantiq yoki λ-hisoblashga asoslangan"
+  },
+  {
+    "question": "Dasturlash tizimlariga – ",
+    "A": "translyatorlar, kutubxona dasturlari, redaktorlar, kompanovshiklar, zagrо‘zchiklar va otladchiklar kiradi",
+    "B": "quyi va yuqori darajali dasturlash tillari kiradi",
+    "C": "til muammolarini xal qiluvchi dasturlar va dasturiy ta’minotlar kiradi",
+    "D": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan dasturlar kiradi"
+  },
+  {
+    "question": "Dasturlash tizimlari – ",
+    "A": "til muammolarini xal qiluvchi dasturlarni birlashtiradilar va dasturiy ta’minotni ishlab chikarishga mо‘ljallangan",
+    "B": "maxsus servis dasturlar bо‘lib, ular yordamida operatsion tizimni о‘ziga xizmat kо‘rsatish mumkin",
+    "C": "quyi va yuqori darajali dasturlash tillariga bо‘linadi",
+    "D": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan"
+  },
+  {
+    "question": "Dasturlarga xizmat kо‘rsatuvchi tizimlar – ...",
+    "A": "maxsus servis dasturlar bо‘lib, ular yordamida operatsion tizimni о‘ziga xizmat kо‘rsatish mumkin",
+    "B": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan",
+    "C": "til muammolarini xal qiluvchi dasturlarni birlashtiradilar va dasturiy ta’minotni ishlab chikarishga mо‘ljallangan",
+    "D": "quyi va yuqori darajali dasturlash tillariga bо‘linadi"
+  },
+  {
+    "question": "Translyator – bu ...",
+    "A": "dastur bо‘lib, berilgan dasturlash tilidagi kiruvchi dastur matnini unga ekvivalent bо‘lgan chiqishdagi natijaviy tilga о‘giradi",
+    "B": "maxsus servislar bо‘lib, ular yordamida operatsion tizimni о‘ziga xizmat kо‘rsatish mumkin ",
+    "C": "dastur bо‘lib, u berilgan dastur matnini birdaniga qabul qiladi va bajaradi",
+    "D": "dastur bо‘lib, natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan"
+  },
+  {
+    "question": "Kompilyator – bu ...",
+    "A": "translyator bо‘lib, u berilgan dastur mantnini unga ekvivalent bо‘lgan mashina komandalaridagi obyekt dasturga о‘giradi",
+    "B": "maxsus servislar bо‘lib, ular yordamida operatsion tizimni о‘ziga xizmat kо‘rsatish mumkin ",
+    "C": "dastur bо‘lib, u berilgan dastur matnini birdaniga qabul qiladi va bajaradi",
+    "D": "dastur bо‘lib, natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashga mо‘ljallangan"
+  },
+  {
+    "question": "Interpretator – bu ...",
+    "A": "dastur bо‘lib, u berilgan dastur matnini birdaniga qabul qiladi va bajaradi (natijaviy kodi bо‘lmaydi)",
+    "B": "translyator bо‘lib, u berilgan dastur mantnini unga ekvivalent bо‘lgan mashina komandalaridagi obyekt dasturga о‘giradi",
+    "C": "dastur bо‘lib, berilgan dasturlash tilidagi kiruvchi dastur matnini unga ekvivalent bо‘lgan chiqishdagi natijaviy tilga о‘giradi",
+    "D": "maxsus servis dasturlar bо‘lib, ular yordamida operatsion tizimni о‘ziga xizmat kо‘rsatish mumkin"
+  },
+  {
+    "question": "Kompilyator formal tillar nuqtai nazaridan qanday funksiyalarni bajaradi?",
+    "A": "kiruvchi dastur matni tili uchun anglovchi xisoblanadi va natijaviy dastur tili uchun generator xisoblanadi",
+    "B": "maxsus servis dasturlar bо‘lib, ular yordamida operatsion tizimni о‘ziga xizmat kо‘rsatishni amalga oshiradi ",
+    "C": "dastur bо‘lib, u berilgan dastur matnini birdaniga qabul qiladi va bajaradi",
+    "D": "natijasini olish orqali dasturlarning rivojlanishini qо‘llab-quvvatlashni amalga oshiradi"
+  },
+  {
+    "question": "Leksik tahlil – bu ...",
+    "A": "kompilyator bо‘lagi bо‘lib, dastur literalarini о‘kiydi  va ular orqali kiruvchi til leksemalarini kо‘radi",
+    "B": "tahlil bosqichidagi kompilyatorning asosiy bо‘lagidir. Tilning sintaktik konstruksiyalarini ajratadi",
+    "C": "kompilyator bо‘lagi bо‘lib, kiruvchi til semantikasi nuqtai nazaridan dastur matnini tekshiradi",
+    "D": "dastur berilgan dasturlash tilidagi kiruvchi dastur matnini unga ekvivalent bо‘lgan chiqishdagi natijaviy tilga о‘giradi"
+  },
+  {
+    "question": "Sintaktik tahlil – bu ...",
+    "A": "tahlil bosqichidagi kompilyatorning asosiy bо‘lagidir. Tilning sintaktik konstruksiyalarini ajratadi",
+    "B": "kompilyator bо‘lagi bо‘lib, dastur literalarini о‘kiydi  va ular orqali kiruvchi til leksemalarini kо‘radi",
+    "C": "kompilyator bо‘lagi bо‘lib, kiruvchi til semantikasi nuqtai nazaridan dastur matnini tekshiradi",
+    "D": "dastur berilgan dasturlash tilidagi kiruvchi dastur matnini unga ekvivalent bо‘lgan chiqishdagi natijaviy tilga о‘giradi"
+  },
+  {
+    "question": "Semantik tahlil – bu ...",
+    "A": "kompilyator bо‘lagi bо‘lib, kiruvchi til semantikasi nuqtai nazaridan dastur matnini tekshiradi",
+    "B": "kompilyator bо‘lagi bо‘lib, dastur literalarini о‘kiydi  va ular orqali kiruvchi til leksemalarini kо‘radi",
+    "C": "tahlil bosqichidagi kompilyatorning asosiy bо‘lagidir. Tilning sintaktik konstruksiyalarini ajratadi",
+    "D": "dastur berilgan dasturlash tilidagi kiruvchi dastur matnini unga ekvivalent bо‘lgan chiqishdagi natijaviy tilga о‘giradi"
+  },
+  {
+    "question": "Kodni generatsiyalashga tayyorgarlik – ",
+    "A": "natijaviy dasturning sintezi bilan bog‘lik bо‘lgan xarakatlarga tayyorgarlik bajariladi",
+    "B": "kodni optimizatsiyalashni о‘z ichiga olgan asosiy faza bilan bog‘lik bо‘lgan xarakatlarga tayyorgarlik bajariladi",
+    "C": "kiruvchi dastur elementlari bilan bog‘lik bо‘lgan xarakatlarga tayyorgarlik bajariladi",
+    "D": "natijaviy kodni bevosita xosil qilish bilan bog‘lik bо‘lgan xarakatlarga tayyorgarlik bajariladi"
+  },
+  {
+    "question": "Kodni genaratsiyalash – ",
+    "A": "natijaviy kodni bevosita xosil etish – kodni optimizatsiyalashni о‘z ichiga olgan asosiy faza",
+    "B": "natijaviy dasturning sintezi bilan bog‘lik bо‘lgan xarakatlar ",
+    "C": "tashqi xotiradan berilganlarni о‘kish hamda ularni qayta ishlash va tashqi xotiraga joylashtirish",
+    "D": "natijaviy kodni bevosita xosil qilish bilan bog‘lik bо‘lgan xarakatlar"
+  },
+  {
+    "question": "Identifikatorlar jadvali – ",
+    "A": "kiruvchi dastur elementlari xaqidagi ma’lumotlarni saqlovchi berilganlar tо‘plami",
+    "B": "natijaviy dasturning sintezi bilan bog‘lik bо‘lgan xarakatlar xaqidagi ma’lumotlarni saqlovchi berilganlar tо‘plami",
+    "C": "tashqi xotiradan berilganlarni oxirgi о‘kish jarayoni xaqidagi ma’lumotlarni saqlovchi berilganlar tо‘plami",
+    "D": "natijaviy kodni bevosita xosil etish – kodni optimizatsiyalashni о‘z ichiga olgan asosiy faza xaqidagi ma’lumotlarni saqlovchi berilganlar tо‘plami"
+  },
+  {
+    "question": "О‘tish – bu ...",
+    "A": "tashqi xotiradan berilganlarni oxirgi о‘kish jarayoni, ularni qayta ishlash va tashqi xotiraga joylashtirish",
+    "B": "natijaviy dasturning sintezi bilan bog‘lik bо‘lgan xarakatlarga tayyorgarlik bajariladi",
+    "C": "dasturni xotiradagi ixtiyoriy bо‘sh joyga joylashtirish",
+    "D": "dasturni qayta ishlovchi dasturga joylashtirish"
+  },
+  {
+    "question": "Assembler – bu ...",
+    "A": "tizimli qayta ishlovchi dastur bо‘lib, u biron bir mashinaga mо‘ljallangan dasturlash tilida yozilgan dastur matnini obyekt kodiga aylantirish uchun mо‘ljallangan",
+    "B": "tashqi xotiradan berilganlarni oxirgi о‘tish jarayoni, ularni qayta ishlash va tashqi xotiraga joylashtirish uchun mо‘ljallangan",
+    "C": "natijaviy kodni bevosita xosil etish – kodni optimizatsiyalashni о‘z ichiga olgan asosiy faza xaqidagi ma’lumot uchun mо‘ljallangan",
+    "D": "kiruvchi dastur elementlari xaqidagi ma’lumotlarni kodlarini yaratish uchun mо‘ljallangan"
+  },
+  {
+    "question": "Assembler tilidagi matn nimalardan tashkil topgan?",
+    "A": "direktivalar va ismlardan tashqil topadi",
+    "B": "baytlardan tashqil topadi",
+    "C": "kiruvchi dastur elementlari xaqidagi ma’lumotlardan tashqil topadi",
+    "D": "natijaviy kodni optimizatsiyalashni о‘z ichiga olgan faza xaqidagi ma’lumotlardan tashqil topadi"
+  },
+  {
+    "question": "Yuklovchilar ...",
+    "A": "dasturni qayta ishlovchi dasturga yuklaydilar va unga boshqaruvni uzatadilar",
+    "B": "xar bir dasturni bittadan fiksirlangan adres bо‘yicha yuklaydilar",
+    "C": "dasturni xotiradagi ixtiyoriy bо‘sh joyga joylashtirishlari mumkin",
+    "D": "natijaviy kodni optimizatsiyalash uchun xotiraga yuklaydilar"
+  },
+  {
+    "question": "Yuklovchilar ...",
+    "A": "yuklovchilarni bog‘lovchi alohida modullarni birlashtiradilar",
+    "B": "xar bir dasturni bittadan fiksirlangan adres bо‘yicha yuklaydilar",
+    "C": "dasturni xotiradagi ixtiyoriy bо‘sh joyga joylashtirishlari mumkin",
+    "D": "natijaviy kodni optimizatsiyalash uchun xotiraga yuklaydilar"
+  },
+  {
+    "question": "Yuklovchilar qanday bо‘lishi mumkin?",
+    "A": "joy о‘zgartiruvchi yoki absolyut",
+    "B": "joy о‘zgartiruvchi yoki dinamik",
+    "C": "joy о‘zgartiruvchi yoki statik",
+    "D": "dinamik yoki statik"
+  },
+  {
+    "question": "Absolyut yuklovchilar – ",
+    "A": "xar bir dasturni bittadan fiksirlangan adres bо‘yicha yuklaydilar",
+    "B": "dasturni xotiradagi ixtiyoriy bо‘sh joyga joylashtirishlari mumkin",
+    "C": "dasturni qayta ishlovchi dasturga yuklaydilar",
+    "D": "dasturga boshqaruvni uzatadilar"
+  },
+  {
+    "question": "Joy о‘zgartiruvchi yuklovchilar – ",
+    "A": "dasturni xotiradagi ixtiyoriy bо‘sh joyga joylashtirishlari mumkin",
+    "B": "xar bir dasturni bittadan fiksirlangan adres bо‘yicha yuklaydilar",
+    "C": "dasturni qayta ishlovchi dasturga yuklaydilar",
+    "D": "dasturga boshqaruvni uzatadilar"
+  },
+  {
+    "question": "Mikroprotsessorlar – bu ...",
+    "A": "belgili qayta ishlashga mо‘ljallangan bо‘lib, bu jarayonda mikrochaqiriqlarga mikrokengaytmalar mos qо‘yiladi",
+    "B": "tizimli qayta ishlovchi bо‘lib obyekt modullarini yagona modulga birlashtirishga mо‘ljallangan",
+    "C": "natijaviy kodni optimizatsiyalashni о‘z ichiga olgan faza xaqidagi ma’lumotlardan tashqil topadi",
+    "D": "kiruvchi dastur elementlari xaqidagi ma’lumotlarni kodlarini yaratish uchun mо‘ljallangan"
+  },
+  {
+    "question": "Mikroprotsessorning kirishida – ",
+    "A": "mikrochaqiriqlardan olingan matn bо‘ladi",
+    "B": "mikrokengaytmalar bо‘ladi",
+    "C": "mikroobyekt modullari bо‘ladi",
+    "D": "mikfunksiyalar bо‘ladi"
+  },
+  {
+    "question": "Mikroprotsessorning chiqishida – ",
+    "A": "mikrokengaytmalar bо‘ladi",
+    "B": "mikrochaqiriqlardan olingan matn bо‘ladi",
+    "C": "mikroobyekt modullari bо‘ladi",
+    "D": "mikfunksiyalar bо‘ladi"
+  },
+  {
+    "question": "Translyatorlar – ...",
+    "A": " bir tilda yozilgan matnni boshqa tilga о‘giradilar",
+    "B": "tizimli qayta ishlovchi dastur bо‘lib obyekt modullarini yagona modulga birlashtiradi",
+    "C": "barcha adres yо‘nalishlari yagona adreslar fazosiga о‘rnatiladi",
+    "D": "tarjima funksiyalarini aniq bо‘linishi va tarjima qilingan funksiyalarni bajarilishi"
+  },
+  {
+    "question": "Translyatorlarda – ",
+    "A": "obyekt kodi aloqa redaktorining kirishiga yoki yuklovchining kirishiga kelib tushadi",
+    "B": "tizimli qayta ishlovchi dastur bо‘lib obyekt modullarini yagona modulga birlashtiradi",
+    "C": "barcha adres yо‘nalishlari yagona adreslar fazosiga о‘rnatiladi",
+    "D": "tarjima funksiyalarini aniq bо‘linishi va tarjima qilingan funksiyalarni bajarilishi"
+  },
+  {
+    "question": "Aloqa redaktorlari – bu ...",
+    "A": "tizimli qayta ishlovchi dastur bо‘lib, assembler yordamida alohida olingan obyekt modullarini yagona modulga birlashtirishga mо‘ljallangan",
+    "B": "tarjima funksiyalarini aniq bо‘linishi va tarjima qilingan funksiyalarni bajarilishiga mо‘ljallangan",
+    "C": "barcha adres yо‘nalishlari yagona adreslar fazosiga о‘rnatilishiga mо‘ljallangan",
+    "D": "bir tilda yozilgan matn kodini boshqa tilda yozilgan matn kodiga о‘girshga mо‘ljallangan"
+  },
+  {
+    "question": "Aloqa redaktori chegarasida .....",
+    "A": "barcha adres yо‘nalishlari yagona adreslar fazosiga о‘rnatiladi",
+    "B": "obyekt yuklovchining kirishiga kelib tushadi",
+    "C": "tizimli qayta ishlovchi dastur bо‘lib, obyekt modullarini yagona modulga birlashtiradi",
+    "D": "bir tilda yozilgan matn kodini boshqa tilda yozilgan matn kodiga о‘giradi"
+  },
+  {
+    "question": "Translyatorlarni quyidagi kо‘rinishlarini ajratib kо‘rsatish mumkin:",
+    "A": "kompilyatorlar, kirishida yuqori daraja tilida yozilgan dastur matni, chiqishida mashina kodlaridagi aloqa redaktoriga yoki yuklovchiga uzatiladigan dastur",
+    "B": "kompilyatorlar, interpretatorlar, til konvertorlari, kirishida yuqori daraja tilida yozilgan dastur matni, chiqishida mashina kodlaridagi aloqa redaktori",
+    "C": "kompilyatorlar, til konvertorlari, kirishida yuqori daraja tilida yozilgan dastur matni, chiqishida mashina kodlaridagi aloqa redaktoriga yoki yuklovchiga uzatiladigan dastur",
+    "D": "kompilyatorlar interpretatorlar, kirishida yuqori daraja tilida yozilgan dastur matni, chiqishida mashina kodlaridagi aloqa redaktoriga yoki yuklovchiga uzatiladigan dastur"
+  },
+  {
+    "question": "Translyatorlarni xususiyatlari: ",
+    "A": "tarjima funksiyalarini aniq bо‘linishi va tarjima qilingan funksiyalarini bajarilishi",
+    "B": "obyekt kodi aloqa redaktorining kirishiga yoki yuklovchining kirishiga kelib tushish funksiyalarini bajarilishi",
+    "C": "qayta ishlovchi dastur modullarini yagona modulga birlashtirish funksiyalarini bajarilishi",
+    "D": "bir tilda yozilgan matnni boshqa tilda yozilgan matnga о‘girish funksiyalarini bajarilishi"
+  },
+  {
+    "question": "Interpretatorlar –",
+    "A": "tarjimani va bajarilishni qatorlab va kooperativ bajaradi",
+    "B": "bir yuqori daraja dasturlash tilida yozilgan dastur matnini boshqa yukori daraja dasturlash tiliga aylantirish uchun mо‘ljallangan",
+    "C": "mantni qayta ishlash uchun keng imkoniyatlarga egaliklari bilan farqlanadilar",
+    "D": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan xatolarni kidirish va bartaraf etish uchun mо‘ljallangan"
+  },
+  {
+    "question": "Til konvertorlari – bu ",
+    "A": "bir yuqori daraja dasturlash tilida yozilgan dastur matnini boshqa yukori daraja dasturlash tiliga aylantirish uchun mо‘ljallangan",
+    "B": "tarjimani va bajarilishni qatorlab va kooperativ bajaradi",
+    "C": "mantni qayta ishlash uchun keng imkoniyatlarga egaliklari bilan farqlanadilar",
+    "D": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan xatolarni kidirish va bartaraf etish uchun mо‘ljallangan"
+  },
+  {
+    "question": "Matn redaktorlari ....",
+    "A": "mantni qayta ishlash uchun keng imkoniyatlarga egaliklari bilan farqlanadilar",
+    "B": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan xatolarni kidirish va bartaraf etish uchun mо‘ljallangan",
+    "C": "bir yuqori daraja dasturlash tilida yozilgan dastur matnini boshqa yukori daraja dasturlash tiliga aylantirish uchun mо‘ljallangan",
+    "D": "tarjimani va bajarilishni qatorlab va kooperativ bajaradi"
+  },
+  {
+    "question": "Dizassembler – ...",
+    "A": "mashina kodlari ketma-ketligini assembler kо‘rinishiga о‘zgartiradigan dastur",
+    "B": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan xatolarni kidirish va bartaraf etish uchun mо‘ljallangan",
+    "C": "bir yuqori daraja dasturlash tilida yozilgan dastur matnini boshqa yukori daraja dasturlash tiliga aylantirish uchun mо‘ljallangan",
+    "D": "tarjimani va bajarilishni qatorlab va kooperativ bajaradi"
+  },
+  {
+    "question": "Dizassembler – bu ...",
+    "A": "loyixalashtirilayotgan xisoblash tizimlari arxitekturasini otladka kilish uchun foydalaniladi",
+    "B": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan xatolarni kidirish va bartaraf etish uchun mо‘ljallangan",
+    "C": "bir yuqori daraja dasturlash tilida yozilgan dastur matnini boshqa yukori daraja dasturlash tiliga aylantirish uchun mо‘ljallangan",
+    "D": "tarjimani va bajarilishni qatorlab va kooperativ bajaradi"
+  },
+  {
+    "question": "Kross-tizim – bu ...",
+    "A": "dastur bir xisoblash mashinasida mashina kodlarida ifodalangan boshqa bir xisoblash mashinasining dasturlarini olish uchun qо‘llaniladi",
+    "B": "loyixalashtirilayotgan xisoblash tizimlari arxitekturasini otladka kilish uchun foydalaniladi",
+    "C": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan xatolarni kidirish va bartaraf etish uchun mо‘ljallangan",
+    "D": "kiritilayotgan matn, obyekt moduli raqami bо‘lishi mumkin bо‘lgan fayllarni tashkil etish va ularga xizmat kо‘rsatish uchun dasturlar "
+  },
+  {
+    "question": "Kutubxonalar – bu ...",
+    "A": "kiritilayotgan matn, obyekt moduli raqami bо‘lishi mumkin bо‘lgan kutubxona fayllarini tashkil etish va ularga xizmat kо‘rsatish uchun dasturlar ",
+    "B": "dasturlarni bajarilish jarayonida uchrashi mumkin bо‘lgan kutubxona fayllarini tashkil etish va ularga xizmat kо‘rsatish uchun dasturlar",
+    "C": "loyixalashtirilayotgan xisoblash tizimlari arxitekturasini kutubxona fayllarini tashkil etish va ularga xizmat kо‘rsatish uchun dasturlar",
+    "D": "mantni qayta ishlash uchun keng imkoniyatlarga egalik qilishni kutubxona fayllarini tashkil etish va ularga xizmat kо‘rsatish uchun dasturlar"
+  },
+  {
+    "question": "Dasturlarning hayot davri nima?",
+    "A": "dasturni yaratish zarurligi tо‘g‘risida qarar qabul qilingan vaqtdan boshlab, о‘z faoliyatining yakunigacha bо‘lgan uzluksiz jarayon tushuniladi",
+    "B": "dastur bosib о‘tishi lozim bо‘lgan jarayonlarning vaqt oralig‘i dasturning hayot davri deyiladi ",
+    "C": "dasturni boshqarish modellari dasturning hayot davri deyiladi",
+    "D": "dasturni ishlab chiqish, yig‘ish va integratsiyalash jarayonlari tushuniladi"
+  },
+  {
+    "question": "Dasturning hayot sikli bosqichlari nima?",
+    "A": "dastur bosib о‘tishi lozim bо‘lgan jarayonlarni dasturning hayot sikli bosqichlari deyiladi",
+    "B": "dasturni yaratish zarurligi tо‘g‘risida qarar qabul qilingan vaqtdan boshlab toki u tugatilgunga qadar о‘tgan vaqt oralig‘ini dasturning hayot sikli bosqichlari deyiladi",
+    "C": "dasturni boshqarish modellari dasturning hayot sikli bosqichlari deyiladi",
+    "D": "dasturni ishlab chiqish, yig‘ish va integratsiyalash dasturning hayot sikli bosqichlari deyiladi"
+  },
+  {
+    "question": "Dasturning hayot davrining dasturlashdan oldingi tahlili bosqichida....",
+    "A": "dastur taqdim etish mо‘ljallangan obyektning funksional va axborot modelini formatlash bajariladi",
+    "B": "texnik topshiriqni, eskiz va texnik dasturlarni ishlab chiqiladi ",
+    "C": "dasturlash bosqichida ajratilgan tizimostilarning dasturiy spetsifikatsiyasi asosida dasturlash va amaliy dasturlarni sinash amalga oshiriladi",
+    "D": "dasturlash tizimini yig‘ish va integratsiyalash, sinovdan о‘tkazish amalga oshiriladi"
+  },
+  {
+    "question": "Dasturning hayot davrining loyihalash bosqichida....",
+    "A": "texnik topshiriqni, eskiz va texnik loyihalarni ishlab chiqiladi ",
+    "B": "dastur taqdim etish mо‘ljallangan obyektning funksional va axborot modelini formatlash bajariladi",
+    "C": "dasturlash bosqichida ajratilgan tizimostilarning dasturiy spetsifikatsiyasi asosida dasturlash va amaliy dasturlarni sinash amalga oshiriladi",
+    "D": "dasturlash tizimini yig‘ish va integratsiyalash, sinovdan о‘tkazish amalga oshiriladi"
+  },
+  {
+    "question": "Dasturning hayot davrining Dasturni ishlab chiqish bosqichida....",
+    "A": "dasturlash bosqichida ajratilgan tizimostilarning dasturviy spetsifikatsiyasi asosida dasturlash va amaliy dasturlarni sinash amalga oshiriladi",
+    "B": "dastur taqdim etish mо‘ljallangan obyektning funksional va axborot modelini formatlash bajariladi",
+    "C": "texnik topshiriqni, eskiz va texnik dasturlarni ishlab chiqiladi",
+    "D": "dasturlash tizimini yig‘ish va integratsiyalash, sinovdan о‘tkazish amalga oshiriladi"
+  },
+  {
+    "question": "Dasturning hayot davrining yakunlovchi (oxirgi) bosqichida qanday amallar bajariladi?",
+    "A": " tizimni rivojlantirish ",
+    "B": "tizimni ishlatish va kuzatib borish ",
+    "C": "tizimni yig‘ish va integratsiyalash",
+    "D": "tizimni sinovdan о‘tkazish "
+  },
+  {
+    "question": "Model deganda...",
+    "A": "dastur hayot davri kechishi mobaynidagi jarayonlarning о‘zaro bog‘liqligi va bojarilish ketma-ketligini belgilaydi",
+    "B": "dastur hayot davri strukturasining ishlab chiqish usullarini belgilaydi",
+    "C": "dastur hayot davri tuzilishini aniqlaydigan metodlarni belgilaydi",
+    "D": "dastur hayot davri dasturiy ta’minotni ishlatish va kuzatib borishni belgilaydi"
+  },
+  {
+    "question": "Dasturlash tizimlari hayot davri standartlari sinfi – ",
+    "A": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartiblarini belgilab beradi",
+    "B": "tiziga qо‘yilgan talablarni bajarilishini ta’minlash maqsadida, uning faoliyati tartibini belgilaydi ",
+    "C": "tizimni yaratish zarurligi tо‘g‘risida qarar qabul qilinsh jarayonini belgilaydi",
+    "D": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirishni belgilab beradi"
+  },
+  {
+    "question": "Dasturlash tizimlari funsional standartlari sinfi – ",
+    "A": "tiziga qо‘yilgan talablarni bajarilishini ta’minlash maqsadida, uning faoliyati tartibini belgilaydi ",
+    "B": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartiblarini belgilab beradi",
+    "C": "tizimni yaratish zarurligi tо‘g‘risida qarar qabul qilinsh jarayonini belgilaydi",
+    "D": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirishni belgilab beradi"
+  },
+  {
+    "question": "Dasturlar uchun yaratilgan standartlar qanday siniflarga ajratilgan?",
+    "A": "funsional va hayot davri standartlar",
+    "B": "fundamental va funsional standartlar",
+    "C": "boshqaruv va fundamental standartlar",
+    "D": "dasturlarni boshqarish uchun standartlar"
+  },
+  {
+    "question": "Funsional standartlar bu – ",
+    "A": "tizimga qо‘yilgan talablarni bajarilishini ta’minlash maqsadida, uning faoliyati tartibini belgilaydi",
+    "B": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartiblarini belgilab beradi",
+    "C": "xar hil masalalarni yechishga mо‘ljallangan va ularni yaratish turli yondashuvlar bilan ta’riflanadi",
+    "D": "tizimning о‘tmishini, uning hayot davri modeli sifatida kо‘rib chiqilishi tartibini belgilaydi"
+  },
+  {
+    "question": "Dasturlar hayot davri standartlari –",
+    "A": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartiblarini belgilab beradi",
+    "B": "tizimga qо‘yilgan talablarni bajarilishini ta’minlash maqsadida, uning faoliyati tartibini belgilaydi ",
+    "C": "har xil masalalarni yechishga mо‘ljallangan va ularni yaratish turli yondashuvlar bilan ta’riflanadi",
+    "D": "tizimning о‘tmishini, uning hayot davri modeli sifatida kо‘rib chiqilishi tartibini belgilaydi"
+  },
+  {
+    "question": "Pog‘onali (sharshar usulining mohiyati – ",
+    "A": "loyihani bosqichlarga bо‘lib, bir bosqichdan keyingi bosqichga о‘tish sharti avvalgi bosqichdagi barcha ishlarning  nihoyasiga yetganligi deb belgilanadi",
+    "B": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirish imkoniyatining mavjudligi hisoblanadi",
+    "C": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartiblarini belgilab beriladi",
+    "D": "tizimni yaratish zarurligi tо‘g‘risida qarar qabul qilinsh jarayonini belgilaydi"
+  },
+  {
+    "question": "Spiral modelining asosiy muammosi – ",
+    "A": "keyingi bosqichga о‘tish paytini aniqlashdan iborat",
+    "B": "avval qabul kilingan qarorlarni aniqlash va qayta kо‘rib chiqish ",
+    "C": "imkon qadar tezroq foydalanuvchilarga tayyor mahsulotni taqdim etish",
+    "D": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirish"
+  },
+  {
+    "question": "Pog‘onali (sharshar modelining ijobiy tomoni ...",
+    "A": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirish imkoniyatining mavjudligi hisoblanadi",
+    "B": "Dasturni bosqichlarga bо‘lib, bir bosqichdan keyingi bosqichga о‘tish sharti avvalgi bosqichdagi barcha ishlarning  nihoyasiga yetganligi deb belgilanadi",
+    "C": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartibini belgilab berish hisoblanadi",
+    "D": "avval qabul kilingan qarorlarni aniqlash va qayta kо‘rib chiqish maqsadda oldingi pog‘onalarga qaytish zarurati doimiy ravishda  paydo bо‘ladi"
+  },
+  {
+    "question": "Pog‘onali (sharshar modelining kamchiligi – ",
+    "A": "avval qabul kilingan qarorlarni aniqlash va qayta kо‘rib chiqish maqsadda oldingi pog‘onalarga qaytish zarurati doimiy ravishda  paydo bо‘ladi ",
+    "B": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirish imkoniyatining yо‘qligi",
+    "C": "loyihani bosqichlarga bо‘lib, bir bosqichdan keyingi bosqichga о‘tish sharti avvalgi bosqichdagi barcha ishlarning  nihoyasiga yetganligi deb belgilanadi",
+    "D": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartibini belgilab berish hisoblanadi"
+  },
+  {
+    "question": "Spiral model – ",
+    "A": "yaratilayotgan axborot tizimiga, uni yaratilish jarayonida, bevosita va doimiy ravishda о‘zgarishlar va yangiliklarni tadbiq qilishga yо‘naltirilgan",
+    "B": "universallik darajasi yuqori bо‘lib, uni turli xil mahsulotlarni ishlab chiqishga qо‘llash mumkin",
+    "C": "axborot tizimlari va ularning dasturiy ta’minotini Dasturlash uchun moslashmagan",
+    "D": "avval qabul kilingan qarorlarni aniqlash va qayta kо‘rib chiqish"
+  },
+  {
+    "question": "Dasturning hayot davri deganda – ",
+    "A": "uni yaratish zarurligi tо‘g‘risida qarar qabul qilingan vaqtdan boshlab, tizim faoliyatining yakunigacha bо‘lgan uzluksiz jarayon tushuniladi",
+    "B": "tiziga qо‘yilgan talablarni bajarilishini ta’minlash maqsadida, uning faoliyati tartibini belgilash tushuniladi",
+    "C": "tizimni qanday yaratish kerakligini, amalda yaratish, amaliyotda qо‘llash va faoliyatini yakunlash tartiblarini belgilash tushuniladi",
+    "D": "tizimni yaratish zarurligi tо‘g‘risida qarar qabul qilinsh jarayoni tushuniladi"
+  },
+  {
+    "question": "Spiral modelning maqsadi – ",
+    "A": "imkon qadar tezroq foydalanuvchilarga tayyor mahsulotni taqdim etish ",
+    "B": "keyingi bosqichga о‘tish paytini aniqlashdan iborat",
+    "C": "avval qabul kilingan qarorlarni aniqlash va qayta kо‘rib chiqish",
+    "D": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirish"
+  },
+  {
+    "question": "Sharshara modelining mohiyati ....",
+    "A": "loyihani tо‘lig‘ichi bosqichlarga bо‘lib, bir bosqichdan keyingi bosqichga о‘tish sharti avvalgi bosqichdagi barcha ishlarning nihoyasiga yetganligi deb belgilagadi.",
+    "B": "keyingi bosqichga о‘tish paytini aniqlashdan iborat",
+    "C": "avval qabul kilingan qarorlarni aniqlash va qayta kо‘rib chiqish",
+    "D": "ishni bajarilish muddatlarini va ishni bajarishga sarflanadigan xarajatlarni rejalashtirish"
+  },
+  {
+    "question": "Dasturiy ta’minot - bu ",
+    "A": "tizimning apparat qismiga kerakli harakatlarni bajarishga, kompyuterni “jonlantirishga” imkon beradigan dasturlar tо‘plamidan tashkil topadi",
+    "B": "tizimning ishlashi uchun kerakli bо‘lgan texnik vositalar tо‘plamidan tashkil topadi",
+    "C": "tizimning ishlashi uchun kerakli bо‘lgan baytlar tо‘plamidan tashkil topadi",
+    "D": "tizimning apparat qismiga kerakli bо‘lgan dasturlash vositalari tо‘plamidan tashkil topadi"
+  },
+  {
+    "question": "Zamonaviy kompyuterlarning dasturiy ta’minoti qanday guruhga bо‘linadi?",
+    "A": "tizim dasturlar va amaliy dasturlar",
+    "B": "funksional dasturlar va amaliy dasturlar",
+    "C": "tizim dasturlar va strukturali dasturlar",
+    "D": "funksional dasturlar va strukturali dasturlar"
+  },
+  {
+    "question": "Kompilyator bu....",
+    "A": "dastur tuzish uchun, kodlarning qonun qoida bо‘yicha terilganligini nazorat qiluvchi va dasturning natijasini chiqaruvchi amaliy dasturdir",
+    "B": "dastur tuzish uchun, kodlarning qonun qoida bо‘yicha terilganligini nazorat qiluvchi va dasturning natijasini chiqaruvchi algoritmdir.",
+    "C": "dastur tuzish uchun, amallar ketma ketligidan iborat bо‘lgan dasturdir",
+    "D": "dastur tuzish uchun, buyruqlar ketma ketligi iborat bо‘lgan dasturdir"
+  },
+  {
+    "question": "Funksiyaga kо‘rsatkichning yozilish sintaksisi quyidagicha:",
+    "A": "<tur> (* <nom>) (<parametrlar ro‘yxati>);",
+    "B": "<nom> (* <tur>) (<parametrlar ro‘yxati>);",
+    "C": "<parametr> (* <nom>) (<parametrlar ro‘yxati>);",
+    "D": "<adress> (* <nom>) (<parametrlar ro‘yxati>);"
+  },
+  {
+    "question": "Konstruktor parametri sifatida о‘z sinfining nomini ishlatish mumkinmi?",
+    "A": "Yо‘q",
+    "B": "Ha",
+    "C": "Dekstuktor e’lon qilib ishlatish mumkin",
+    "D": "Ha faqat bir nechta konstruktor e’lon qilish kerak"
+  },
+  {
+    "question": "Konstruktorni oddiy komponenta funksiya sifatida chaqirib bо‘ladimi?",
+    "A": "Yо‘q",
+    "B": "Ha ",
+    "C": "Ha faqat kо‘rsatkich e’lon qilish kerak",
+    "D": "Ha faqat bir nechta konstruktor e’lon qilish kerak"
+  },
+  {
+    "question": "Agar sinfda oshkor destruktor mavjud bо‘lmasa, ...",
+    "A": "kо‘zda tutilgan destruktor chaqiriladi",
+    "B": "kо‘zda tutilgan konstuktor chaqiriladi",
+    "C": " xatolik yuzaga keladi",
+    "D": "hech qanday о‘zgarish yuz bermaydi"
+  },
+  {
+    "question": "Dastur hali obyektni yaratganicha yо‘q, ammo u elementdan foydalanishi kerak. Bunday holda nima qilish kerak?",
+    "A": "elementdan foydalanish uchun dastur uni public va static sifatida e’lon qilishi kerak",
+    "B": "elementdan foydalanish uchun dastur uni rotected va static sifatida e’lon qilishi kerak",
+    "C": "elementdan foydalanish uchun dastur uni public va lokal sifatida e’lon qilishi kerak",
+    "D": "elementdan foydalanish uchun dastur uni private va static sifatida e’lon qilishi kerak"
+  },
+  {
+    "question": "Qaysi funskiyalar sinfdan tashqarida mavjud bо‘ladi va ushbu funksiya sinfning barcha sohalariga murojaat qila olishi mumkin.",
+    "A": "Friend funksiyalari",
+    "B": "Static funksiyalari",
+    "C": "Inline funksiyalari ",
+    "D": "Konstruktorlar"
+  },
+  {
+    "question": "Static metodlar ________ murojat qiladi. (Jumlani tо‘ldiring)",
+    "A": "static a’zolarga",
+    "B": "konstruktorlarga",
+    "C": "destruktorlarga",
+    "D": "hamma a’zolarga"
+  },
+  {
+    "question": "Bir nechta konstruktor e’lon qilinganda, asosan nimaga ahamiyat berish kerak?",
+    "A": "parametrlar soni har xil bо‘lishiga",
+    "B": "paramterlar tipi har xil bо‘lishiga",
+    "C": "parametrlarga aloqasi yо‘q",
+    "D": "tо‘g‘ri javob yо‘q"
+  },
+  {
+    "question": "Biror sinfga dо‘st(friend) bо‘ladigan sinf _____________.",
+    "A": "mazkur sinfning a’zolaridan foydalanish imkoniyatini yaratadi ",
+    "B": "ikkita dо‘st sinf bir-birining a’zolaridan foydalanish imkoniyatini yaratadi",
+    "C": "friend funksiya ham bо‘lishi kerak ",
+    "D": "tо‘g‘ri javob yо‘q"
+  },
+  {
+    "question": "this kо‘rsatkichidan foydalanishga misollar qaysi qatorda berilgan?",
+    "A": " cout<<this->n; cout<<(*this).n;",
+    "B": "cout<<this<-n; cout<<this.*n;",
+    "C": "cout<<this->n; cout<<this.n;",
+    "D": "cout<<this*n; cout<<(*this).n;"
+  },
+  {
+    "question": "Class nomi bilan bir xil e’lon qilinadigan funksiya nima deyiladi?",
+    "A": "Konstruktor",
+    "B": "Destructor",
+    "C": "Class nomi bilan bir xil funksiya e’lon qilib bо‘lmaydi ",
+    "D": "inline funksiya "
+  },
+  {
+    "question": "Destructor nima?",
+    "A": " Destructor - bu obyektni yо‘q qiladigan yoki о‘chiradigan a’zo funksiyasi",
+    "B": "Destructor - bu obyektni hosil qiladigan yoki о‘chiradigan a’zo funksiyasi",
+    "C": "Destructor - obyektni hosil qiladigan funksiyasi",
+    "D": "Destructor - bu obyektni hosil qiladigan protsedurasi"
+  },
+  {
+    "question": "Constructorning vazifasi nima?",
+    "A": "Classning maydonlariga boshlang‘ich qiymat beradi",
+    "B": "Classning funksiyalariga boshlang‘ich qiymat beradi",
+    "C": "Classning maydonlarini xotiradan egallagan joyidagi qiymatlarni tozalaydi",
+    "D": "Classning maydonlari qiymatlarni tozalaydi"
+  },
+  {
+    "question": "Bir sinfda nechtagacha konstruktor e’lon qilish mumkin?",
+    "A": "Ixtiyoriy",
+    "B": "Bitta",
+    "C": "Ikkita",
+    "D": "Uchta"
+  },
+  {
+    "question": "Konstruktorlar va destruktorlar sinfning qaysi bо‘limida e’lon qilinadi?",
+    "A": "Public",
+    "B": "Private",
+    "C": "Protected",
+    "D": "Ixtiyoriy bо‘limida e’lon qilinishi mumkin"
+  },
+  {
+    "question": "Do’stona funksiya nima?",
+    "A": "friend sinf atributi bilan e’lon qilingan, ammo sinf a’zosi bо‘lmagan funksiya ",
+    "B": "funksiya argumentlari orasida ushbu sinf elementlari mavjud bо‘lgan boshqa sinfning funksiyasi",
+    "C": "sinf a’zosi bо‘lgan va friend atributi bilan e’lon qilingan funksiya",
+    "D": "boshqa sinfda berilgan sinf uchun friend deb e’lon qilingan funksiya"
+  },
+  {
+    "question": "Dectructor e’loni qanday bо‘ladi?",
+    "A": "Descturtor()",
+    "B": "Desctuructor()",
+    "C": "~Desctuructor",
+    "D": "Desctructor"
+  },
+  {
+    "question": "Obyekt a’zolariga kо‘rsatkich orqali murojat qilish uchun qaysi operator ishlatilinadi?",
+    "A": "\"- >\"",
+    "B": "\"::\"",
+    "C": "\".\"",
+    "D": "\"&\""
+  },
+  {
+    "question": "Constructor e’loni qanday?",
+    "A": " Class Shakl{ int a; int b;  Shakl(int a, int b){ this.a=a; this.b =b;}};",
+    "B": "Class Shakl{ int a; int b;  Shkle(int { a=this.a;}",
+    "C": "Class Shakl{ int a; int b;  ~Shakl(int a, int b){ this.a=a; this.b =b;}}",
+    "D": "Class Shakl{ Int a; int b;  Shakl(int a, int b){ this.a=a; this.b =b;}}"
+  },
+  {
+    "question": "this kalit sо‘zi nimani anglatadi?",
+    "A": "joriy obyektga kо‘rsatkich",
+    "B": "ixtiyoriy obyektga kо‘rsatkich",
+    "C": "birinchi obyektga kо‘rsatkich",
+    "D": "this kо‘rsatkich emas"
+  },
+  {
+    "question": "Biror sinfga do’stona bо‘ladigan sinf qanday imkoniyat yaratadi?",
+    "A": "mazkur sinfning a’zolaridan foydalanish",
+    "B": "mazkur sinfning a’zolaridan foydalanmaslik",
+    "C": "mazkur sinfning a’zolaridagi qiymatni о‘chirish",
+    "D": "mazkur sinfning a’zolaridagi qiymat qо‘shish"
+  },
+  {
+    "question": "Destruktor parametri yoki qaytariluvchi qiymatga egami?",
+    "A": "Yо‘q",
+    "B": "Hvoid tipida",
+    "C": "Hauto tipida",
+    "D": "Hparametrning tipiga qarab qiymat qaytaradi"
+  },
+  {
+    "question": "Konstruktor qanday tip qaytaradi?",
+    "A": "hech qanday",
+    "B": "auto tipi",
+    "C": "void tipi",
+    "D": "parametrning tipiga qarab qiymat qaytaradi"
+  },
+  {
+    "question": "Class о‘zgaruvchisini ________e’lon qilinganda kompilyator uni obyektlar uchun bitta nusxa kо‘rinishida yaratadi.",
+    "A": "static",
+    "B": "lokal",
+    "C": "array",
+    "D": "pointer"
+  },
+  {
+    "question": "Funksiya obyekt qaytarishi uchun qaytariladigan obyektning toifasi?",
+    "A": "Funksiyaning qaytarish tipiga kо‘rsatilishi kerak.",
+    "B": "Funksiyaning qaytarish tipiga kо‘rsatilishi shart emas",
+    "C": "Funksiyaning qaytarish tipi void qilinishi kerak",
+    "D": "Funksiyaning inline funksiya qilish kerak"
+  },
+  {
+    "question": "Agar parametrli konstruktor mavjud bо‘lsa obyektlarni inisalizatsiya qilsa bо‘ladimi?",
+    "A": "Ha ",
+    "B": "Yо‘q",
+    "C": "Xatolik yuzaga keladi",
+    "D": "Ha faqat kо‘rsatkich orqali obyektga murojaat qilish shart"
+  },
+  {
+    "question": "Sinfga ta’rif bering?",
+    "A": "sinflar - bu hali mavjud bо‘lmagan obyektlarning usullarini, xususiyatlarini tavsiflovchi abstraksiY.",
+    "B": "sinflar - deb tarkibida hech bо‘lmaganda bitta virtual funksiyasi bо‘lgan sinfga aytiladi",
+    "C": "bu struct tushunchasiga о‘hshaydi, ammo ular a’zolar vazifalarini ham о‘z ichiga olishi mumkin.",
+    "D": "funksiyalarni turli xil turlari yoki turli xil argumentlar bilan ishlash uchun yuklashga imkon beradi"
+  },
+  {
+    "question": "Polimorfm sinf -",
+    "A": "tarkibida hech bо‘lmaganda bitta virtual funksiyasi bо‘lgan sinfga aytiladi",
+    "B": "tarkibida hech bо‘lmaganda ikkita virtual funksiyasi bо‘lgan ",
+    "C": "tarkibida hech bо‘lmaganda bitta abstract sinf bо‘lsa ",
+    "D": "tarkibida hech bо‘lmaganda bitta voris sinf bо‘lgan "
+  },
+  {
+    "question": "Abstrakt sinf obyektini yaratish mumkinmi?",
+    "A": "mumkin emas ",
+    "B": "mumkin ",
+    "C": "sharoitga qarab mumkin yoki yо‘q",
+    "D": "tо‘g‘ri javob mavjud emas"
+  },
+  {
+    "question": "Abstrakt sinfga kо‘rsatkich yoki adres olish amalini e’lon qilish mumkinmi?",
+    "A": " mumkin",
+    "B": "mumkin emas",
+    "C": "sharoitga qarab mumkin yoki yо‘q",
+    "D": "tо‘g‘ri javob mavjud emas."
+  },
+  {
+    "question": "Obyekt turini oshkor ravishda abstrakt sinf turiga keltirish mumkinmi",
+    "A": "mumkin emas",
+    "B": "mumkin ",
+    "C": "sharoitga qarab mumkin yoki yо‘q",
+    "D": "tо‘g‘ri javob mavjud emas"
+  },
+  {
+    "question": "Tayanch sinfda ta’riflanmagan virtual funksiya nima deb ataladi?",
+    "A": "pure virtual function deb ataladi",
+    "B": "virtual function deb ataladi ",
+    "C": "pure function deb ataladi",
+    "D": "bunday funksiya bolishi mumkin emas"
+  },
+  {
+    "question": "Polimorfizm bu:",
+    "A": "tegishli sinflar uchun xos bо‘lgan amallarni kо‘rsatish uchun bitta ismdan foydalanishga imkon beradigan vosita",
+    "B": "bir xil sinfda bir xil nomdagi usullardan foydalanishga imkon beradigan vosita",
+    "C": "bir xil amallarni bajarish uchun bir xil sinfdagi turli nomdagi usullardan foydalanishga imkon beradigan vosita",
+    "D": "funksiyalarni turli xil turlari yoki turli xil argumentlar bilan ishlash uchun ortiqcha yuklashga imkon beradigan vosita"
+  },
+  {
+    "question": "Polimorfizm quyidagi mexanizmlar orqali amalga oshiriladi:",
+    "A": "funksiyalar, virtual funksiyalar, shablonlarning haddan tashqari kо‘payishi",
+    "B": "vazifalarni haddan tashqari yuklash, usullarni, shablonlarni meros qilib olish",
+    "C": "usullar, virtual funksiyalar, shablonlarni meros qilib olish",
+    "D": "ortiqcha yuklash funksiyalari, merosxо‘rlik, virtual funksiyalar"
+  },
+  {
+    "question": "Obyektga yо‘naltirilgan dasturlashda polimorfizm amalga oshiriladi:",
+    "A": "qayta yuklash mexanizmlari (funksiyalar va operatsiyalar), virtual funksiyalar va shablonlar orqali",
+    "B": "haddan tashqari yuklash mexanizmlari (funksiyalar va operatsiyalar) va shablonlar orqali;",
+    "C": "virtual funksiyalar va shablonlar orqali",
+    "D": "ortiqcha mexanizmlar (funksiyalar va operatsiyalar) va virtual funksiyalar orqali"
+  },
+  {
+    "question": "OYD qanday xossasi bir xil iyerarxiyaning turli xil obyektlariga huddi birday munosabatda bо‘lishga imkon beradi?",
+    "A": "polimorfizm ",
+    "B": "inkapsylyatsiya",
+    "C": "abstraktlash",
+    "D": "meroshorlik"
+  },
+  {
+    "question": "Qaysi operatorni qayta yuklab bо‘lmaydi?",
+    "A": "?:",
+    "B": "+",
+    "C": "–",
+    "D": "/ ()"
+  },
+  {
+    "question": "127. Qaysi operatorlarni qayta yuklash mumkin?",
+    "A": "\"+, -, *, /, %\"",
+    "B": "\"+, -, *, /, ?:\"",
+    "C": "\"::,+, -, *, ()\"",
+    "D": "\"*, /, ?:, ::, %\""
+  },
+  {
+    "question": "Operator funksiyasi qayerda aniqlangan bо‘lishi mumkin?",
+    "A": "sinf ta’rifi ichida ham, undan tashqarida ham aniqlanishi mumkin",
+    "B": "sinf tavsifida yoki undan tashqarida ham aniqlanishi mumkin emas",
+    "C": "faqat sinf ta’rifi ichida aniqlanishi mumkin",
+    "D": "faqat sinf tavsifidan tashqarida aniqlanishi mumkin"
+  },
+  {
+    "question": "Operator funksiyalarining ikki turi mavjud. Ular qaysilar?",
+    "A": "oddiy va komponentli",
+    "B": "yagona va juft",
+    "C": "yagona va oddiy",
+    "D": "kopmonentli va eksponent"
+  },
+  {
+    "question": "Funksional operatsiya uch yо‘l bilan aniqlanishi mumkin. Ular qaysilar?",
+    "A": "sinf metodi, dо‘stona funksiyasi va oddiy funksiya",
+    "B": "sinf nusxasi, dо‘stona funksiyasi va oddiy funksiyasi",
+    "C": "sinf metodi, virtual funksiyasi va oddiy funksiyasi",
+    "D": "sinf metodi, dо‘stona funksiyasi va rekursiv funksiyasi"
+  },
+  {
+    "question": "Operatorlarni qayta yuklash nimaga kerak?",
+    "A": "obyektlar ustida amallar bajarish uchun.",
+    "B": "funksuyalar ustida amallar bajarish uchun.",
+    "C": "massivlar ustida amallar bajarish uchun.",
+    "D": "kо‘rsatgichlar ustida amallar bajarish uchun."
+  },
+  {
+    "question": "Operatorlarni qayta yuklash afzalliklari nimada?",
+    "A": "turli xil tipdagi qiymatlar qayta ishlash imkonyati",
+    "B": "funksiyalarni vorislikda ishlatish imkoniyati",
+    "C": "massivlardan kо‘rsatgich sifatida foydalanish",
+    "D": "sinflar yaratish usullarini kengaytirish imkoniyati"
+  },
+  {
+    "question": "Operatorlarni qayta yuklashda qanday operatordan foydalaniladi?",
+    "A": "operator",
+    "B": "funsion",
+    "C": "class",
+    "D": "struct"
+  },
+  {
+    "question": "Qayta yuklash nima?",
+    "A": " turli xil vazifalarni bajarish uchun dastur kodi",
+    "B": "massivlarni jamlash uchun dastur kodi",
+    "C": "kо‘rsatgichlarni bajarish uchun dastur kodi",
+    "D": "sinflardan voris olish"
+  },
+  {
+    "question": "Operatorlarni qayta yuklash qaysi operatorlar uchun mumkin emas?",
+    "A": "“::” , “.*” , “.” , “?.” ;",
+    "B": "“.” , “=” , “?” , “+=”;",
+    "C": "“cin” , “cout” , “for” ,  “-”;",
+    "D": "“while” , “=” , “?” ,  “+=”"
+  },
+  {
+    "question": "Konstruktorlar bu – ",
+    "A": "sinf komponenta funksiyalari bо‘lib, obyektlarni avtomatik initsializatsiya qilish uchun ishlatiladigan vosita",
+    "B": "tegishli sinflar uchun xos bо‘lgan amallarni kо‘rsatish uchun bitta ismdan foydalanishga imkon beradigan vosita",
+    "C": "bir xil amallarni bajarish uchun bir xil sinfdagi turli nomdagi usullardan foydalanishga imkon beradigan vosita",
+    "D": "funksiyalarni turli xil turlari yoki turli xil argumentlar bilan ishlash uchun ortiqcha yuklashga imkon beradigan vosita"
+  },
+  {
+    "question": "Obyekt complex cc shaklida aniqlangan bо‘lsa nima bо‘ladi?",
+    "A": "konstruktor avtomatik chaqirilib, rreal va imag parametrlari avtomatik ravishda 0.0 qiymatlariga ega bо‘ladi",
+    "B": "ma’lumotlar va ularni qayta ishlovchi kodni birlashtirish mexanizmi bir nechta tayanch konsepsiyalarga asoslanadi",
+    "C": "ma’lumotlar va kodni tashqi ta’sirdan saqlash imkonini beradi",
+    "D": "dasturni о‘zaro bog‘langan protseduralar (bloklar) va ular qayta ishlaydigan ma’lumotlarning majmuasi deb qarash mumkin"
+  },
+  {
+    "question": "Inkapsulyatsiya – bu ",
+    "A": "ma’lumotlar va ularni qayta ishlovchi kodni birlashtirish mexanizmidir",
+    "B": "murakkab masalalarni yechish uchun dasturlashning yangi uslubidir",
+    "C": "ma’lumotlarni yangi turini yaratish imkoniyati bо‘lib uning yordamida nazorat qilish oson kechadi",
+    "D": "dasturlashning funksiyalardan foydalanishga asoslangan mexanizmidir"
+  },
+  {
+    "question": "Inkapsulyasiya .....",
+    "A": "ma’lumotlar va kodni tashqi ta’sirdan saqlash imkonini beradi",
+    "B": "murakkab masalalarni yechish uchun dasturlashning yangi uslubidir",
+    "C": "ma’lumotlarni yangi turini yaratish imkoniyati bо‘lib uning yordamida nazorat qilish oson kechadi",
+    "D": "dasturlashning funksiyalardan foydalanishga asoslangan mexanizmidir"
+  },
+  {
+    "question": "Ma’lumot sinf obyektini yaratish qanday funksiya orqali amalga oshiriladi?",
+    "A": "konstruktor deb nomlanuvchi maxsus funksiya-a’zo orqali amalga oshiriladi",
+    "B": "destruktor deb nomlanuvchi maxsus funksiya–a’zo orqali amalga oshiriladi",
+    "C": "ma’lumotlar va kodni tashqi ta’sirdan saqlash imkonini beradigan maxsus funksiya–a’zo orqali amalga oshiriladi",
+    "D": "ma’lumotlarni yangi turini yaratish imkoniyatini beradigan maxsus funksiya–a’zo orqali amalga oshiriladi"
+  },
+  {
+    "question": "Ma’lumot sinf obyektini о‘chirish qanday funksiya orqali amalga oshiriladi?",
+    "A": "destruktor deb nomlanuvchi maxsus funksiya–a’zo orqali amalga oshiriladi",
+    "B": "konstruktor deb nomlanuvchi maxsus funksiya-a’zo orqali amalga oshiriladi",
+    "C": "ma’lumotlar va kodni tashqi ta’sirdan saqlash imkonini beradigan maxsus funksiya–a’zo orqali amalga oshiriladi",
+    "D": "ma’lumotlarni yangi turini yaratish imkoniyatini beradigan maxsus funksiya–a’zo orqali amalga oshiriladi"
+  },
+  {
+    "question": "Sinf ichki ma’lumotlariga murojaatni cheklab qо‘yishi qaday tayinlanadi",
+    "A": "cheklov ma’lumotlarni ochiq, yopiq va himoyalangan deb aniqlash bilan tayinlanadi",
+    "B": "ma’lumotlarni yangi turini yaratish imkoniyatini beradigan maxsus funksiya bilan tayinlanadi",
+    "C": "ma’lumotlar va kodni tashqi ta’sirdan saqlash imkonini beradigan maxsus funksiya bilan tayinlanadi",
+    "D": "dasturlashning funksiyalardan foydalanishga asoslangan mexanizm bilan tayinlanadi"
+  },
+  {
+    "question": "Yopiq (privatma’lumotlarga yoki kodga murojaat qilish taribi qanday?",
+    "A": "faqat shu obyekt ichida murojaat qilish mumkin",
+    "B": "dasturning ixtiyoriy joyidan murojaat qilish mumkin",
+    "C": "ma’lumotlar va ularni qayta ishlovchi kodni birlashtirish mexanizmi orqali murojaat qilish mumkin",
+    "D": "faqat virtual funksiyalar va shablonlar orqali murojaat qilish mumkin"
+  },
+  {
+    "question": "Ochiq (publima’lumotlarga va kodlarga murojaat qilish taribi qanday?",
+    "A": "dasturning ixtiyoriy joyidan murojaat qilish mumkin",
+    "B": "faqat shu obyekt ichida murojaat qilish mumkin",
+    "C": "ma’lumotlar va ularni qayta ishlovchi kodni birlashtirish mexanizmi orqali murojaat qilish mumkin",
+    "D": "faqat virtual funksiyalar va shablonlar orqali murojaat qilish mumkin"
+  },
+  {
+    "question": "Vorislik – bu shunday jarayonki, unda ",
+    "A": "bir obyekt boshqasining xossalarini о‘zlashtirishi mumkin bо‘ladi",
+    "B": "bir obyekt boshqasining qiymatlarini о‘zlashtirishi mumkin bо‘ladi",
+    "C": "bir obyekt boshqasining natijalarini о‘zlashtirishi mumkin bо‘ladi",
+    "D": "bir obyekt boshqasining elementlarini о‘zlashtirishi mumkin bо‘ladi"
+  },
+  {
+    "question": "Polimorfizm – bu ",
+    "A": "kodning bajarilish paytidan yuzaga keladigan holatga bog‘liq ravishda о‘zini turlicha amal qilish xususiyatidir",
+    "B": "kodning yozilish paytidan yuzaga keladigan holatga bog‘liq ravishda о‘zini turlicha amal qilish xususiyatidir",
+    "C": "kodning yaratilishi paytidan yuzaga keladigan holatga bog‘liq ravishda о‘zini turlicha amal qilish xususiyatidir",
+    "D": "kodning kompilatsiya qilinishi paytidan yuzaga keladigan holatga bog‘liq ravishda о‘zini turlicha amal qilish xususiyatidir"
+  },
+  {
+    "question": "Hosilaviy ma’lumotlar va funksiyalarni qayerdan oladi?",
+    "A": "о‘zining ona sinfidan ma’lumotlar va funksiyalarni vorislik bо‘yicha oladi",
+    "B": "kodning bajarilish paytidan yuzaga keladigan holatga bog‘liq ravishda ma’lumotlar va funksiyalarni vorislik bо‘yicha oladi",
+    "C": "faqat virtual funksiyalar va shablonlar orqali ma’lumotlar va funksiyalarni vorislik bо‘yicha oladi",
+    "D": "dasturning ixtiyoriy joyidan murojaat qilish orqali ma’lumotlar va funksiyalarni vorislik bо‘yicha oladi"
+  },
+  {
+    "question": "Agar obyekt о‘z atributlarini faqat bitta ona sinfdan vorislik bilan olsa ...",
+    "A": "yakka vorislik deyiladi",
+    "B": "tо‘plamli vorislik deyiladi",
+    "C": "virtual vorislik deyiladi",
+    "D": "ma’lumotlar va funksiyalar vorisligi deyiladi"
+  },
+  {
+    "question": "Agar obyekt о‘z atributlarini bir nechta ona sinflardan olsa",
+    "A": "tо‘plamli vorislik deyiladi",
+    "B": "yakka vorislik deyiladi ",
+    "C": "virtual vorislik deyiladi",
+    "D": "ma’lumotlar va funksiyalar vorisligi deyiladi"
+  },
+  {
+    "question": "Yaratilgan obyektlarni, ularni funksiya–a’zolariga oddiygina murojaat orqali amalga oshiriluvchi ... ",
+    "A": "xabarlar (yoki sо‘rovlar) yordamida boshqarish mumkin",
+    "B": "ma’lumotlar (yoki funksiyalar) yordamida boshqarish mumkin",
+    "C": "qiymatlar (yoki natijalar) yordamida boshqarish mumkin",
+    "D": "tо‘plamlar (yoki elementlar) yordamida boshqarish mumkin"
+  },
+  {
+    "question": "Kechiktirilgan bog‘lanishda chaqiriladigan funksiya-a’zolar adreslari dastur bajarilishi jarayonida qanday aniqlanadi?",
+    "A": "dinamik ravishda aniqlanadi",
+    "B": "ular statik bо‘lib, kompilyatsiya paytida aniqlanadi",
+    "C": "xabarlar yoki sо‘rovlar yordamida aniqlanadi",
+    "D": "ma’lumotlar yoki funksiyalar yordamida aniqlanadi"
+  },
+  {
+    "question": "An’anaviy dasturlash tillarida adreslar qanday aniqlanadi?",
+    "A": "ular statik bо‘lib, kompilyatsiya paytida aniqlanadi",
+    "B": "ular dinamik ravishda aniqlanadi",
+    "C": "xabarlar yoki sо‘rovlar yordamida aniqlanadi",
+    "D": "ma’lumotlar yoki funksiyalar yordamida aniqlanadi"
+  },
+  {
+    "question": "Dasturlash paradigmasi nima?",
+    "A": "kod yaratish prinsiplari va texnikasi tо‘plami",
+    "B": "yangi dasturlar tо‘plami",
+    "C": "qabul qilingan ilmiy va texnik atamalar tо‘plami",
+    "D": "ma’lumotlar yoki funksiyalar tо‘plami"
+  },
+  {
+    "question": "Dasturlashning asosiy modellarini kо‘rsating",
+    "A": "Imperativ, deklarativ, funksional, mantiqiy, OYD",
+    "B": "Imperativ, deklorativ, funksional, strukturali",
+    "C": "Imperativ, funksional, vektorli, strukturali, OYD, ",
+    "D": "Funksional, mantiqiy, OYD, strukturali"
+  },
+  {
+    "question": "Deklorativ dasturlashga tо‘g‘ri keladigan qatorni aniqlang",
+    "A": "Funksional va mantiqiy dasturlash",
+    "B": "Strukturali va protsedurali dasturlash",
+    "C": "OYD va funksional dasturlash",
+    "D": "Funksional va strukturali dasturlash "
+  },
+  {
+    "question": "Algoritmning xossalarini toping",
+    "A": "cheklilik, aniqlilik, tushinarlilik, natijaviylik, ommaviylik, samaradorlik",
+    "B": "cheklilik , unversallik, tushinarlilk, ommaviylik, natijaviylik",
+    "C": "cheklilk, aniqlilik, tushinarlilik, natijaviylik, samaradorlik",
+    "D": "cheklilk, aniqlilik, tushinarlilik, natijaviylik, ommaviylik, hamyonboplik"
+  },
+  {
+    "question": "Protsedurali dasturlash paradigmasi",
+    "A": "Ananaviy Fon Neymar arxitekturasini aks ettiruvchi dasturlash paradigmasi",
+    "B": "Garvirt arxitekturasini aks ettiruvchi dasturlash paradigmasi",
+    "C": "Fon Neymar va Garvrd arxitekturalarini mujassamlashtirgan dasturlash paradigmasi",
+    "D": "Zamonaviy dasturlash paradigmasi"
+  },
+  {
+    "question": "“goto” о‘tish operatori:",
+    "A": "Protsedurali dasturlashda foydalaniladi",
+    "B": "Strukturali dasturlashda foydalaniladi",
+    "C": "Vektorli dasturlashda foydalaniladi",
+    "D": "Mantiqiy dasturlashda foydalaniladi"
+  },
+  {
+    "question": "Boyom-Jokopina teoremasi:",
+    "A": "Har qanday algoritmni strukturali kо‘rinishda ifodalash mumkin va uning bajarilish jarayoni uchta boshqaruv tuzilmasi yordamida aniqlanadi",
+    "B": "Hamma narsa obyektdir",
+    "C": "Har qanday jarayonni algoritmga о‘tkazish mumkin",
+    "D": "Hisoblash obyektlar о‘rtasidagi о‘zaro tasir orqali amalga oshiriladi"
+  },
+  {
+    "question": "Strukturali dasturlash operatorlari",
+    "A": " If,else, then, for, while, swich, break, continue",
+    "B": "If, else, goto, while, switch",
+    "C": "If, switch, for, while,goto",
+    "D": "If, else, def(), slot"
+  },
+  {
+    "question": "Barcha obyektlar uchun mavjud bо‘lgan sinf a’zolari quyidagi sо‘z yordamida e’lon qilinadi:",
+    "A": "static",
+    "B": "protected",
+    "C": "private",
+    "D": "friend"
+  },
+  {
+    "question": "Sinf a’zolariga faqat sinf ichidagi yoki uning avlodlari ichidagi kodlar orqali kirish imkoniyati quyidagi sо‘z yordamida e’lon qilinadi:",
+    "A": "private",
+    "B": "protected",
+    "C": "static",
+    "D": "friend"
+  },
+  {
+    "question": "Sturkturali dasturlashda qaysi operatordan foydalanmaymiz ",
+    "A": "Goto",
+    "B": "SWITCH",
+    "C": "Break",
+    "D": "continue"
+  },
+  {
+    "question": "Dastur bajarilishi natijasida nimalar bosiladi? #include <stdio.h> void main(){ int a = 5 ¦ 3; float b = 1.5f; b -= a/2; printf(\"%.2f\", b);}",
+    "A": " -1.50",
+    "B": "-2.00",
+    "C": "0.50",
+    "D": "0.00"
+  },
+  {
+    "question": "Sikl necha marta bajariladi?: for(int i=0; i<=5; i+=3)",
+    "A": "2 marta",
+    "B": "3 marta",
+    "C": "4 marta",
+    "D": "bir marta emas"
+  },
+  {
+    "question": "Qaysi biri quyidagi kodni chiqaradi?: (#include <іostream.h> slass A{ private: A(){sout<<\"A\";}}; int main(){ A a,b; return 0;}",
+    "A": "tuzishda xatolik yuz beradi",
+    "B": "hech narsa chop etmaydi",
+    "C": "AA",
+    "D": "A"
+  },
+  {
+    "question": "Dastur nimani chiqaradi? (#іnslude<іostream.h> voіd prіnt(іnt x, int y){ cout<<x<<y<<yendl;} іnt main(){ int x=1; int u=2; print(y=5,x=6);}",
+    "A": 56,
+    "B": 21,
+    "C": 65,
+    "D": 12
+  },
+  {
+    "question": "Ekranda nima kо‘rsatiladi? (int main(){ int= arrau = new іnt[10]; sout<<sіzeof(array)/sizeof(array[0]);delete[] arrau;return 0;})",
+    "A": "platformaga bog‘liq ",
+    "B": 10,
+    "C": 1,
+    "D": 5
+  },
+  {
+    "question": "Dasturlashni rivojlantirishning birinchi bosqichi qaysi bosqich?",
+    "A": " “О‘z-о‘zidan” dasturlash",
+    "B": "Dasturlash uchun tizimli yondashuv",
+    "C": "Dasturlashga obyektiv yondoshish",
+    "D": "Komponent yondashuvi va CASE texnologiyalari"
+  },
+  {
+    "question": "Dasturlashning ikkinchi bosqichi qaysi bosqichda",
+    "A": "Dasturlash uchun tuzilgan yondashuv",
+    "B": "“О‘z-о‘zidan” dasturlash",
+    "C": "Dasturlashga obyektiv yondoshish",
+    "D": "Komponent yondashuvi va CASE texnologiyalari"
+  },
+  {
+    "question": "Dasturlashni ishlab chiqishning uchinchi bosqichi qaysi bosqich",
+    "A": " Dasturlashga obyektiv yondashish",
+    "B": "Dasturlash uchun tizimli yondashuv",
+    "C": "“О‘z-о‘zidan” dasturlash",
+    "D": "Komponent yondashuvi va CASE texnologiyalari"
+  },
+  {
+    "question": "Dasturlashning tо‘rtinchi bosqichi qaysi bosqichda",
+    "A": " Komponent yondashuvi va CASE texnologiyalari",
+    "B": "Dasturlashga obyektiv yondoshish",
+    "C": "Dasturlash uchun tizimli yondashuv",
+    "D": "“О‘z-о‘zidan” dasturlash"
+  },
+  {
+    "question": "main() funsiyaga ta’rif bering.",
+    "A": "Bosh funksiya bо‘lib barcha boshqa funksiyalar shu funksiyaga chaqiriladi, C++ da kamida bitta shunday funksiya bо‘lishi kerak va zarur",
+    "B": "Funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "Funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "Funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "main() funsiyaga ta’rif bering.",
+    "A": "Rekursiv funksiya bо‘lib о‘z о‘zini chaqiradi",
+    "B": "Funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "Funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "Funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "main() funsiyaga ta’rif bering.",
+    "A": "Qayta yuklanuvchi funksiya bо‘lib parametrlariga qarab har hil qiymatlar qaytarishi bilan farq qiladi",
+    "B": "Funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "Funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "Funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funssiya prototipiga ta’rif bering.",
+    "A": "Funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "B": "Funksiya tanasida bittadan ortiq return operatori bо‘lishi mumkin. Ularning ixtiyoriy birortasini bajarish orqali funksiyadan chiqib ketiladi",
+    "C": "Agar funksiyaning qiymati dasturda ishlatilmaydigan bо‘lsa, funksiyadan chiqish uchun parametrsiz return operatori ishlatilishi mumkin yoki umuman return ishlatilmaydi ",
+    "D": "Qayta yuklanuvchi funksiya bоlib parametrlariga qarab har hil qiymatlar qaytaradi"
+  },
+  {
+    "question": "Funssiya prototipiga ta’rif bering.",
+    "A": "Funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "B": "Funksiya tanasida bittadan ortiq return operatori bо‘lishi mumkin. Ularning ixtiyoriy birortasini bajarish orqali funksiyadan chiqib ketiladi",
+    "C": "Agar funksiyaning qiymati dasturda ishlatilmaydigan bо‘lsa, funksiyadan chiqish uchun parametrsiz return operatori ishlatilishi mumkin yoki umuman return ishlatilmaydi ",
+    "D": "Qayta yuklanuvchi funksiya bо‘lib parametrlariga qarab har hil qiymatlar qaytaradi"
+  },
+  {
+    "question": "Funssiya prototipiga ta’rif bering.",
+    "A": "Funksiya nomi va parametrlari tariflanishi lozim bо‘ladi",
+    "B": "Funksiya tanasida bittadan ortiq return operatori bо‘lishi mumkin. Ularning ixtiyoriy birortasini bajarish orqali funksiyadan chiqib ketiladi",
+    "C": "Agar funksiyaning qiymati dasturda ishlatilmaydigan bо‘lsa, funksiyadan chiqish uchun parametrsiz return operatori ishlatilishi mumkin yoki umuman return ishlatilmaydi ",
+    "D": "Qayta yuklanuvchi funksiya bо‘lib parametrlariga qarab har hil qiymatlar qaytaradi"
+  },
+  {
+    "question": "Funksiya aniqlanishi… ",
+    "A": "funksiya sarlavhasi va figurali qavsga (‘{‘,’}’) olingan qandaydir amaliy mazmunga ega tanadan iborat bо‘ladi",
+    "B": "funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funksiya aniqlanishi… ",
+    "A": "funksiya tanasida bittadan ortiq return operatori bо‘lishi mumkin",
+    "B": "funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funksiya aniqlanishi… ",
+    "A": "Agar funksiyaning qiymati dasturda ishlatilmaydigan bо‘lsa, funksiyadan chiqish uchun parametrsiz return operatori ishlatilishi mumkin yoki umuman return ishlatilmaydi",
+    "B": "funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "Funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "Funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funksiyani chaqirish uchun …",
+    "A": "uning nomi va undan keyin qavs ichida argumentlar rо‘yxati beriladi",
+    "B": "о‘z tanasida boshqa funksiyalarni, о‘zini о‘zi ham chaqirishi mumkin",
+    "C": "Funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "Funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funksiyani chaqirish uchun …",
+    "A": "quidagi sintaksisi yordamida  <funksiya nomi>(<argument1>, <argument2>,…, <argumentn >) chaqiriladi",
+    "B": "о‘z tanasida boshqa funksiyalarni, о‘zini о‘zi ham chaqirishi mumkin",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funksiyani chaqirish uchun …",
+    "A": "funksiya argumentlar rо‘yxati bо‘sh bо‘lishi mumkin",
+    "B": "о‘z tanasida boshqa funksiyalarni, о‘zini о‘zi ham chaqirishi mumkin",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Rekursiv funksiyalar …",
+    "A": "о‘z tanasida boshqa funksiyalarni, о‘zini о‘zi ham chaqirishi mumkin",
+    "B": "funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Rekursiv funksiyalar …",
+    "A": "main() funksiyalarni chaqirishi mumkin",
+    "B": "funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Rekursiv funksiyalar …",
+    "A": "qayta yuklanuvchi funksiya bо‘lib parametrlariga qarab har hil qiymatlar qaytaradi",
+    "B": "funksiya e’lonini bо‘lib bunda funksiya nomi va parametrlari, qaytaruvchi qiymatlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "C": "funksiya nomi tariflanishi va parametrlari tariflanishi lozim bо‘ladi va nuqta vergul bilan tugashi kerak",
+    "D": "funksiya nomi va parametrlari tariflanishi lozim bо‘ladi"
+  },
+  {
+    "question": "Funksiya ichida e’lon qilingan о‘zgaruvchilarni – ",
+    "A": "lokal о‘zgaruvchilar deyiladi",
+    "B": "dinamik о‘zgaruvchilar deyiladi",
+    "C": "statik о‘zgaruvchilar deyiladi",
+    "D": "rekursiv о‘zgaruvchilar deyiladi"
+  },
+  {
+    "question": "Funksiya ichida e’lon qilingan о‘zgaruvchilarni – ",
+    "A": "global о‘zgaruvchilar deyiladi",
+    "B": "dinamik о‘zgaruvchilar deyiladi",
+    "C": "statik о‘zgaruvchilar deyiladi",
+    "D": "rekursiv о‘zgaruvchilar deyiladi"
+  },
+  {
+    "question": "C++ da ma’lumot turlari nechchi kategoriyaga bo’linadi?",
+    "A": "Fundamental va murakkab;",
+    "B": "Onson va murakkab;",
+    "C": "Aniq va noaniq",
+    "D": "Aniq va fundamental;"
+  },
+  {
+    "question": "Qiymat hosil qilmaydigan funksiyalarni e’lon qilishda va aniqlashda ma’lumotlarning qaysi turidan foydalaniladi?",
+    "A": "Fundamental;",
+    "B": " Murakkab;",
+    "C": "Onson;",
+    "D": "Noaniq;"
+  },
+  {
+    "question": "C++ da  char o’zgaruvchi turi qaysi oraliqdagi qiymatlarni qabul qiladi?",
+    "A": "  -128 dan 127 gacha yoki 0 dan 255 gacha;",
+    "B": " -100 dan 150 gacha yoki 0 dan 355 gacha;",
+    "C": " -50 dan 200 gacha yoki 0 dan 288 gacha;",
+    "D": " -40 dan 180 gacha yoki 0dan 388 gacha;"
+  },
+  {
+    "question": "Dasturlashda faktlar, hodisalar, hodisalar va jarayonlarni grammatik tavsiflash vositasi hisoblanadi",
+    "A": " imperativ regulyator;",
+    "B": "dasturlash paradigmasi;",
+    "C": "dislokatsiya omili;",
+    "D": "deklorativ regulyator"
+  },
+  {
+    "question": "Kodlashdan biroz farq qiladigan dasturlash ... deyiladi",
+    "A": " amaliy dasturlash;",
+    "B": "nazariy dasturlash;",
+    "C": " funktsional dasturlash;",
+    "D": "mantiqiy dasturlash;"
+  },
+  {
+    "question": "Fortran tili ... ga taaluqli",
+    "A": " amaliy dasturlash;",
+    "B": "nazariy dasturlash;",
+    "C": "funksional dasturlash;",
+    "D": "vektorli dasturlash"
+  },
+  {
+    "question": "Dasturlashning imperativ-protsedurali uslubi ... sohada hukmronlik qiladi",
+    "A": " tizimli dasturlash;",
+    "B": "past darajadagi dasturlash;",
+    "C": "mashinaga yo'naltirilgan dasturlash;",
+    "D": "yuqori darajadagi dasturlash;"
+  },
+  {
+    "question": "Dasturlashning imperativ protsedurali uslubi",
+    "A": " modulli dasturlash imkonini beradi;",
+    "B": "modulli dasturlashga ruxsat bermaydi",
+    "C": "modulli dasturlash imkoniyatini yo'q qiladi",
+    "D": "mantiqiy dasturlash imkonini beradi;"
+  },
+  {
+    "question": "Simvolik ishlov berish muammolarini hal qiladigan matematiklar va tilshunoslar uchun funktsional dasturlashni soddalashtirish uchun ... dan foydalaniladi",
+    "A": " deklarativ dasturlash;",
+    "B": "past darajadagi dasturlash;",
+    "C": "tizimli dasturlash;",
+    "D": "parallel dasturlash;"
+  },
+  {
+    "question": "Deklarativ dasturlash ... uchun qo'llaniladi",
+    "A": " funktsional dasturlashni soddalashtirish;",
+    "B": "ayniqsa muhim vazifalarni hal qilishda maksimal samaradorlikka erishish;",
+    "C": "dasturni optimallashtirish texnikasi, makrogeneratsiya va qisman hisoblashning kombinatsiyasi sifatida;",
+    "D": "to’g’ri javob berilmagan;"
+  },
+  {
+    "question": "Deklarativ dasturlashda asosiy tushuncha  sifastida ... dan foydalaniladi",
+    "A": " nodeterminizm;",
+    "B": "determinizm;",
+    "C": "antideterminizm;",
+    "D": "barchasi variantlar to’g’ri;"
+  },
+  {
+    "question": "Dasturni optimallashtirish texnikasi, makrogeneratsiya va qisman hisob-kitoblarning kombinatsiyasi ... da amalga oshiriladi ",
+    "A": " transformatsion dasturlash;",
+    "B": "deklarativ dasturlash;",
+    "C": "past darajadagi dasturlash;",
+    "D": "mantiqiy dasturlash;"
+  },
+  {
+    "question": "Transformatsion dasturlash  ... uchun ishlatiladi",
+    "A": " dasturni optimallashtirish, makrogeneratsiya va qisman hisob-kitoblar texnikasini birlashtirish;",
+    "B": "ayniqsa muhim vazifalarni hal qilishda mumkin bo'lgan maksimal xususiyatlarga erishish;",
+    "C": "funktsional dasturlashni soddalashtirish",
+    "D": "jarayonlarni soddalashtirish;"
+  },
+  {
+    "question": "Transformatsion dasturlash sohasidagi asosiy tushuncha",
+    "A": " axborot ekvivalentligi;",
+    "B": "axborotning ekvipotentsialligi;",
+    "C": "noderminant;",
+    "D": "determinant;"
+  },
+  {
+    "question": "Dasturni takomillashtirishning mobil uslubi dasturlashga  .... nomi bilan yuritiladi",
+    "A": " evolyutsion yondashuv;",
+    "B": "rekognitsion yondashuv;",
+    "C": "adabtatsiyali yondashuv;",
+    "D": "moslashuvchan yondashuv;"
+  },
+  {
+    "question": "Professional, ta'lim va havaskor dasturlashning o'yin uslubi .... yondashuv deyiladi",
+    "A": " tadqiqot yondashuvi;",
+    "B": "adabtatsiyali yondashuv;",
+    "C": "tartibga solish yondashuvi",
+    "D": "rekognitsion yondashuv;"
+  },
+  {
+    "question": "Shaxsiylashtirilgan axborot tizimlarini individual loyihalashning ergonomik uslubi bilan dasturlashga yondashuv deyiladi",
+    "A": " adabtatsiyali yondashuv;",
+    "B": "evolyutsion yondashuv;",
+    "C": "rekognitsion yondashuv;",
+    "D": "tartibga solish yondashuvi;"
+  },
+  {
+    "question": "Interpritatorlar aslida .... ",
+    "A": " to'liq bo'lmagan kompilyatorlar",
+    "B": "kompilyatorlar;",
+    "C": "determinantlar;",
+    "D": "nodeterminantlar;"
+  },
+  {
+    "question": "Dasturlashda natijalarning ishonchliligini aniqlashning o'ziga xos usuli ...  hisoblanadi",
+    "A": " kompyuterli eksperiment;",
+    "B": "kompilyatsiya;",
+    "C": "determinatsiya;",
+    "D": "to’g’ri javob berilmagan;"
+  },
+  {
+    "question": "Algol va Paskalga tegishli qanday …..",
+    "A": "nazariy dasturlash ",
+    "B": "amaliy dasturlash",
+    "C": "funktsional dasturlash",
+    "D": "imperativ dasturlash"
+  },
+  {
+    "question": "Funktsional dasturlashga … dasturlash tili misol bo’ladi?",
+    "A": "Lisp ",
+    "B": "Paskal",
+    "C": "Fortran",
+    "D": "C++"
+  },
+  {
+    "question": "Dasturlash uslublariga quydagilardan qaysi biri kiradi",
+    "A": "  barcha javoblar to'g'ri ",
+    "B": " tizimli dasturlash",
+    "C": " deklarativ mantiqiy dasturlash",
+    "D": " mashinaga yo'naltirilgan dasturlash"
+  },
+  {
+    "question": "Dasturlash uslublari orasida quyidagilardan qaysi biri mavjud",
+    "A": "  barcha javoblar to'g'ri ",
+    "B": " yuqori samarali dasturlash",
+    "C": " parallel dasturlash",
+    "D": " optimallashtirish-transformatsiyani dasturlash"
+  },
+  {
+    "question": "Quydagilardan qaysi biri dasturlash uslubi deyiladi",
+    "A": "barcha javoblar to'g'ri ",
+    "B": "deklarativ mantiqiy dasturlash",
+    "C": "mashinaga yo'naltirilgan dasturlash",
+    "D": "yuqori samarali dasturlash"
+  },
+  {
+    "question": "quydagilardan qaysi biri kompyuter ishini tashkil etishning apparatli yondashuvini xarakterlaydi",
+    "A": "quyi darajadagi dasturlash",
+    "B": "tizimli dasturlash",
+    "C": "deklarativ mantiqiy dasturlash",
+    "D": "imperativ dasturlash"
+  },
+  {
+    "question": "Quyi darajadagi dasturlashning asosiy yo'nalishi",
+    "A": "barcha javoblar to'g'ri ",
+    "B": "xotira holati",
+    "C": "hodisalar ketma-ketligi",
+    "D": "apparat konfiguratsiyasi"
+  },
+  {
+    "question": "Quydagilardan qaysilari dasturlashning imperativ protsedurali uslubi sohada hukmronlik qiladi",
+    "A": "tizimli dasturlash",
+    "B": "past darajadagi dasturlash",
+    "C": "mashinaga yo'naltirilgan dasturlash",
+    "D": "yuqori samarali dasturlash"
+  },
+  {
+    "question": "Dasturlashning imperativ protsessual uslubida …",
+    "A": "modulli dasturlash imkonini beradi ",
+    "B": "modulli dasturlashga ruxsat bermaydi",
+    "C": "modulli dasturlash imkoniyatini yo'q qiladi",
+    "D": "funktsional dasturlashni soddalashtirish"
+  },
+  {
+    "question": "Yuqori darajali dasturlash maqsadi ",
+    "A": "ayniqsa muhim vazifalarni hal qilishda mumkin bo'lgan maksimal xususiyatlarga erishish ",
+    "B": "funktsional dasturlashni soddalashtirish",
+    "C": "dasturni optimallashtirish, so'l yaratish va qisman hisoblash texnikasini birlashtirish",
+    "D": "modulli dasturlash imkoniyatini yo'q qiladi"
+  },
+  {
+    "question": "Simvolik ishlov berish masalalarini hal qiluvchi matematiklar va tilshunoslar uchun funksional dasturlashni soddalashtirish uchun quydagilardan qaysi biri tadbiq etilgan",
+    "A": "deklarativ dasturlash ",
+    "B": "tizimli dasturlash",
+    "C": "past darajadagi dasturlash",
+    "D": "imperativ dasturlash"
+  },
+  {
+    "question": "Deklarativ dasturlashdan nima sababdan foydalaniladi",
+    "A": "  funktsional dasturlashni soddalashtirish maqsadida",
+    "B": " ayniqsa muhim vazifalarni hal qilishda maksimal samaradorlikka erishish",
+    "C": " dasturni optimallashtirish texnikasi, so'l yaratish va qisman hisoblashning kombinatsiyasi sifatida",
+    "D": " barcha javoblar to'g'ri"
+  },
+  {
+    "question": "Qaysi funksional dasturlar tufayli xatolar kamroq bo'ladi?",
+    "A": "  funktsional dasturlarda nojo'ya ta'sirlar mavjud emas",
+    "B": " funktsional dasturlar qisqaroq",
+    "C": " funktsional tillarda bufer toshib ketishi kabi xatolar avtomatik ravishda boshqariladi",
+    "D": " funktsional dasturlar dasturchi uchun sodda va tushunarli"
+  },
+  {
+    "question": "Funktsional dasturlash tillarida an'anaviy ravishda qanday operatorlar mavjud emas?",
+    "A": "oldindan va keyingi shartlarga ega bo'lgan belgilash operatori va sikl operatorlari ",
+    "B": "tayinlash operatori",
+    "C": "tayinlash operatori va shartli operator",
+    "D": "barcha operatorlar mavjud"
+  },
+  {
+    "question": "Funksional dasturlash tillarida takrorlanuvchi harakatlar qanday amalga oshiriladi?",
+    "A": "rekursiyadan foydalanish",
+    "B": "halqa konstruksiyalari yordamida",
+    "C": "o'tish operatori yordamida",
+    "D": "funktsional abstraktsiyadan foydalanish"
+  },
+  {
+    "question": "Funktsional dasturlarni qurish tamoyili nimadan iborat?",
+    "A": "Dastur har biri kirishni chiqishga qayta ishlaydigan funksiyalar to'plamidan qurilgan. Funktsiyalarni ma'lumotlar sifatida ham ko'rib chiqish mumkin",
+    "B": "dastur har biri kiritilgan ma'lumotlarni chiqishda qayta ishlaydigan funktsiyalar to'plamidan qurilgan. Ma'lumotlar va funktsiyalar o'rtasida aniq ajratish mavjud",
+    "C": "dastur bir-birini chaqiruvchi subprogrammalar (protseduralar va funksiyalar) to'plamidan tuzilgan.",
+    "D": "dastur bitta katta arifmetik ifodadir"
+  },
+  {
+    "question": "Funktsional dasturlarda ishlashning murakkabligi qanday?",
+    "A": "funktsional abstraktsiya va funktsional parchalanish",
+    "B": "meros va polimorfizm",
+    "C": "funktsional abstraktsiya va esda saqlash",
+    "D": "funktsional parchalanish va dinamik bog'lanish"
+  },
+  {
+    "question": "Funksional dasturlash asosida qanday algoritmik model yotadi?",
+    "A": "lyabda-hisoblash",
+    "B": "1-tartibli predikatlar mantiqi",
+    "C": "yuqori tartibli mantiq",
+    "D": "Tyuring mashinasi"
+  },
+  {
+    "question": "Funksional dasturlashning imperativ dasturlashdan farqi nimada?",
+    "A": "funktsional dasturlash funktsiyalar va ularning ma'lumotlarga qo'llanilishi, imperativ dasturlash operatorlar va ularning xotira holatini qanday o'zgartirishi bilan bog'liq.",
+    "B": "funktsional dasturlashda har bir funktsiya faqat unga ajratilgan xotira maydoni bilan ishlashi mumkin.",
+    "C": "funktsional dasturlashda muammoning deklarativ tavsifiga ko'ra uni hal qilish uchun avtomatik qidiruv mavjud.",
+    "D": "barcha javoblar to'g'ri"
+  },
+  {
+    "question": "Nima uchun hozirda funktsional dasturlashni o'rganish katta qiziqish uyg'otmoqda?",
+    "A": "  funktsional yondashuv hisob-kitoblarni parallellashtirish kabi muammolarni hal qilishga yordam beradi ",
+    "B": " ko'plab dasturiy loyihalar hozirda funktsional tillarda amalga oshirilmoqda",
+    "C": " bu dasturlashning yosh yo'nalishi",
+    "D": " barcha javoblar to'g'ri"
+  },
+  {
+    "question": "Paradigma so’zi qaysi tildan olingan?",
+    "A": " yunon tilidan",
+    "B": "forscha tilidan",
+    "C": "ingiliz tilidan",
+    "D": "nemis tilidan"
+  },
+  {
+    "question": "Imperativ dasturlash paradigmasiga qaysi dasturlash modellari kiradi?",
+    "A": " obyektga yo’naltirilgan, parallel ishlov berish",
+    "B": "obyektga yo’naltirilgan, funksional",
+    "C": "obyektga yo’naltirilgan, mantiqiy",
+    "D": "obyektga yo’naltirilgan, ma’lumotlar bazasi"
+  },
+  {
+    "question": "Imperativ dasturlash paradigmasi bu….",
+    "A": " U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi.",
+    "B": "U kodni qayta ishlatish qobiliyatiga ega va foydalanish mumkinligi bilan farq qiladi.",
+    "C": "U bugungi kunda skript mavjud bo'lgan deyarli har qanday haqiqiy dasturlash muammosini hal qila oladi.",
+    "D": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi."
+  },
+  {
+    "question": "Protsessual dasturlash paradigmasi bu….",
+    "A": " Ushbu paradigma asosiy mashina modeli nuqtai nazaridan protseduraga urg'u beradi. Protsessual va imperativ yondashuv o'rtasida farq yo'q. U kodni qayta ishlatish qobiliyatiga ega va foydalanish mumkinligi bilan farq qiladi.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Ob'ektga yo'naltirilgan dasturlash….",
+    "A": "Eng kichik va eng asosiy ob'ekt bo'lib, barcha turdagi hisoblar faqat ob'ektlar ustida amalga oshiriladi. Jarayondan ko'ra ma'lumotlarga ko'proq e'tibor beriladi. ",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Parallel ishlov berish yondashuvi bu…….",
+    "A": " bu dastur ko'rsatmalarini bir nechta protsessorlarga bo'lish orqali qayta ishlash.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Sof funktsiyalar bu…..",
+    "A": "bu dastur ko'rsatmalarini bir nechta protsessorlarga bo'lish orqali qayta ishlash. Faqat o'z kontekstini boshqaradigan va butun dasturning global kontekstiga (holatig ta'sir qilmaydigan kod bloklari.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Kompozit funksiyalar bu …..",
+    "A": "Bitta blok boshqasi tomonidan qaytarilgandan so’ng natijaga ta'sir qiladi.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Rekursiya nima?",
+    "A": "Funktsional tillarda rekursiya sikllar o‘rnini bosuvchi vazifasini bajaradi. Bu o'z kontekstida o'ziga funksiya chaqiruvidir. Bunday chaqiruvlar nazorat sharti rost bo'lgunga qadar takrorlanadi.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Assembler tilida MOV operatori qanday vazifa bajaradi?",
+    "A": "ma'lumotlarni bir joydan boshqasiga ko'chirish.",
+    "B": "ikkita qiymatni birga qo'shish.",
+    "C": "bitta qiymatni boshqa qiymatdan ayirish.",
+    "D": "ma'lumotlarni to'plamga surish."
+  },
+  {
+    "question": "Assembler tilida ADD operatori qanday vazifa bajaradi?",
+    "A": "ikkita qiymatni birga qo'shish.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "bitta qiymatni boshqa qiymatdan ayirish.",
+    "D": "ma'lumotlarni to'plamga surish."
+  },
+  {
+    "question": "Assembler tilida SUB operatori qanday vazifa bajaradi?",
+    "A": "bitta qiymatni boshqa qiymatdan ayirish.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "ikkita qiymatni birga qo'shish.",
+    "D": "ma'lumotlarni to'plamga surish."
+  },
+  {
+    "question": "Assembler tilida PUSH operatori qanday vazifa bajaradi?",
+    "A": "ma'lumotlarni to'plamga surish.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "ikkita qiymatni birga qo'shish.",
+    "D": "bitta qiymatni boshqa qiymatdan ayirish."
+  },
+  {
+    "question": "Assembler tilida POP operatori qanday vazifa bajaradi?",
+    "A": "to'plamdan olingan ma'lumotlar.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "ikkita qiymatni birga qo'shish.",
+    "D": "bitta qiymatni boshqa qiymatdan ayirish."
+  },
+  {
+    "question": "Assembler tilida JMP operatori qanday vazifa bajaradi?",
+    "A": "boshqa joyga o'tish.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "ikkita qiymatni birga qo'shish.",
+    "D": "bitta qiymatni boshqa qiymatdan ayirish."
+  },
+  {
+    "question": "Assembler tilida INT operatori qanday vazifa bajaradi?",
+    "A": " jarayonni to'xtatish.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "ikkita qiymatni birga qo'shish.",
+    "D": "bitta qiymatni boshqa qiymatdan ayirish."
+  },
+  {
+    "question": "ALGOL dasturlash tili nechinchi yilda ishlab chiqilgan?",
+    "A": " 1958-yilda",
+    "B": "1978-yilda",
+    "C": "1968-yilda",
+    "D": "1948-yilda"
+  },
+  {
+    "question": "ALGOL dasturlash tili kimlar tomonidan ishlab chiqilgan?",
+    "A": " Jon Bekus, Jon Makkarti",
+    "B": "Jon Bekus, Jems Gosling",
+    "C": "Robert V Floyd, Томас Сэмюэл Кун",
+    "D": "Jon Bekus, Robert V Floyd,"
+  },
+  {
+    "question": "Muayyan muammoni hal qilish uchun aniq belgilangan operatsiyalar ketma-ketligi… deyiladi.",
+    "A": "Jarayon",
+    "B": "Parchalanish",
+    "C": "Tuzilishi",
+    "D": "Algoritm"
+  },
+  {
+    "question": "Protsessual dasturlashda goto operatorining maqsadi nima?",
+    "A": " Looplardan chiqish va istisnolarni boshqarish uchun",
+    "B": "Dasturning boshqa joyidan qo'ng'iroq qilish",
+    "C": "Cheksiz ko'p marta qo'ng'iroq qilish",
+    "D": "Funksiyalar va protseduralarni yaratish uchun."
+  },
+  {
+    "question": "Mantiqiy dasturlash tillari to’g’ri berilgan qatorni aniqlan?",
+    "A": " Planer, prolog, datalog, oz, mercury, picat",
+    "B": "Paskal, pralog, C++, C#",
+    "C": "C++, oz, Python, Java",
+    "D": "Java, planer, pralog, paskal"
+  },
+  {
+    "question": "Mantiqiy dasturlash bu….",
+    "A": " matematik mantiqqa asoslangan dasturlash paradigmasi - undagi dasturlar mantiqiy bayonotlar va xulosa chiqarish qoidalari shaklida ko'rsatilgan.",
+    "B": "bu dasturning global kontekstiga ta'sir qilmaydigan alohida kod bloklaridan  (funktsiyalardan)tashkil topgan dasturni tavsiflash usuli.",
+    "C": "Funktsional tillarda dastur bloklari yoki kod bo'limlarini bajarish ketma-ketligini kompilyator tomonidan belgilanadi.",
+    "D": "bu bir yoki bir nechta tushunchalardan iborat kod blokidir."
+  },
+  {
+    "question": "Birinchi mantiqiy dasturlash tili qaysi javobda to’g’ri berilgan?",
+    "A": " Planner",
+    "B": "Pralog",
+    "C": "Datalog",
+    "D": "Oz"
+  },
+  {
+    "question": " Planner mantiqiy dasturlash tili nechanchi yillarda ishlab chiqilgan?",
+    "A": " 1967-1971",
+    "B": "1966-1971",
+    "C": "1968-1971",
+    "D": "1969-1971"
+  },
+  {
+    "question": "Planner mantiqiy dasturlash tili kim tomonidan ishlab chiqilgan?",
+    "A": " Karl Xyuitt",
+    "B": "Alen Kolmiroe",
+    "C": "Merkuriy Melburan",
+    "D": "Ralf Grisvold"
+  },
+  {
+    "question": "Planer mantiqiy dasturlash tilining vazifasi qaysi javobda to’g’ri berilgan?",
+    "A": " ma'lumotlardan avtomatik ravishda natija olish imkoniyati va variantlarni sanab o'tish uchun berilgan qoidalar kiritilgan.",
+    "B": "eng qadimgi va hozirgu kunga qadar eng ommabop mantiqiy dasturlash tillaridan bir.",
+    "C": "Sintaktik jihatdan u Prologning kichik to'plamiga o'xshaydi.",
+    "D": "amaliy dasturlarni yaratish uchun mo'ljallangan funktsional mantiqiy dasturlash tili."
+  },
+  {
+    "question": "Planner tilining soddalashtirilgan ko’rinishi berilgan javobni aniqlang?",
+    "A": " Pralog",
+    "B": "Datalog",
+    "C": "Oz",
+    "D": "Picat"
+  },
+  {
+    "question": "Pralog mantiqiy dasturlash tili nechanchi yillarda ishlab chiqilgan?",
+    "A": " 1972 yilda",
+    "B": "1971 yilda",
+    "C": "1968 yilda",
+    "D": "1969-yilda"
+  },
+  {
+    "question": "Pralog mantiqiy dasturlash tili kim tomonidan ishlab chiqilgan?",
+    "A": " Alen Kolmiroe",
+    "B": "Karl Xyuitt",
+    "C": "Merkuriy Melburan",
+    "D": "Ralf Grisvold"
+  },
+  {
+    "question": "Pralog mantiqiy dasturlash tilining vazifasi qaysi javobda to’g’ri berilgan?",
+    "A": " eng qadimgi va hozirgu kunga qadar eng ommabop mantiqiy dasturlash tillaridan biri bo'lib, u tabiiy tillarni qayta ishlash tizimlarida, sun'iy intellekt tadqiqotlarida, ekspert tizimlarida, ontologiyalarda va mantiqiy paradigmadan foydalanishning  tabiiy bo'lgan boshqa mavzularda qo'llaniladi.",
+    "B": " eng qadimgi va hozirgu kunga qadar eng ommabop mantiqiy dasturlash tillaridan bir.",
+    "C": "Sintaktik jihatdan u Plannergning kichik to'plamiga o'xshaydi.",
+    "D": "amaliy dasturlarni yaratish uchun mo'ljallangan funktsional mantiqiy dasturlash tili."
+  },
+  {
+    "question": "Datalog qaysi tilining soddalashtirilgan ko’rinishi berilgan javobni aniqlang?",
+    "A": " Pralog",
+    "B": "Planner",
+    "C": "Oz",
+    "D": "Picat"
+  },
+  {
+    "question": "Datalog mantiqiy dasturlash tili nechanchi yilda ishlab chiqilgan?",
+    "A": " 1986 yilda",
+    "B": "1971 yilda",
+    "C": "1968 yilda",
+    "D": "1969-yilda"
+  },
+  {
+    "question": " Mercury mantiqiy dasturlash tili kimlar tomonidan ishlab chiqilgan?",
+    "A": " Xenderson, Tomas Konvey va Zoltan Somogilar ",
+    "B": "Karl Xyuitt",
+    "C": "Merkuriy Melburan",
+    "D": "Ralf Grisvold"
+  },
+  {
+    "question": "Datalog mantiqiy dasturlash tilining vazifasi qaysi javobda to’g’ri berilgan?",
+    "A": " deklarativ mantiqiy dasturlash tili. Sintaktik jihatdan u Prologning kichik to'plamiga o'xshaydi. Datalog odatda yuqoridan pastga ifoda o'lchamlari modelini emas, balki pastdan yuqoriga qarab foydalanadi.",
+    "B": " eng qadimgi va hozirgu kunga qadar eng ommabop mantiqiy dasturlash tillaridan bir.",
+    "C": "Sintaktik jihatdan u Plannergning kichik to'plamiga o'xshaydi.",
+    "D": "amaliy dasturlarni yaratish uchun mo'ljallangan funktsional mantiqiy dasturlash tili."
+  },
+  {
+    "question": "Mercury mantiqiy dasturlash tili nechanchi yilda ishlab chiqilgan?",
+    "A": " 1995 yilda",
+    "B": "1971 yilda",
+    "C": "1968 yilda",
+    "D": "1969-yilda"
+  },
+  {
+    "question": "Mercury mantiqiy dasturlash tilining vazifasi qaysi javobda to’g’ri berilgan?",
+    "A": " amaliy dasturlarni yaratish uchun mo'ljallangan funktsional mantiqiy dasturlash tili.",
+    "B": "eng qadimgi va hozirgu kunga qadar eng ommabop mantiqiy dasturlash tillaridan bir.",
+    "C": "Sintaktik jihatdan u Plannergning kichik to'plamiga o'xshaydi.",
+    "D": "deklarativ mantiqiy dasturlash tili. Sintaktik jihatdan u Prologning kichik to'plamiga o'xshaydi. Datalog odatda yuqoridan pastga ifoda o'lchamlari modelini emas, balki pastdan yuqoriga qarab foydalanadi."
+  },
+  {
+    "question": "Oz —(Mozart.) mantiqiy dasturlash tili nechanchi yilda ishlab chiqilgan?",
+    "A": " 1991 yilda",
+    "B": "1971 yilda",
+    "C": "1968 yilda",
+    "D": "1969-yilda"
+  },
+  {
+    "question": "SNOBOL mantiqiy dasturlash tili nechanchi yillarda ishlab chiqilgan?",
+    "A": " 1962-1967",
+    "B": "1966-1971",
+    "C": "1968-1971",
+    "D": "1969-1971"
+  },
+  {
+    "question": "SNOBOL mantiqiy dasturlash tilining vazifasi qaysi javobda to’g’ri berilgan?",
+    "A": " Til belgilar qatorlari bilan ishlashda juda qulay va sun'iy intellektni o'rganishda qulay bo’lib, to'liq dinamik til, jumladan deklaratsiyalar, turlar, xotira taqsimoti, hatto protseduraga kirish va hozirgi kunga qadar eng ommabop mantiqiy dasturlash tillaridan bir.",
+    "B": "Sintaktik jihatdan u Plannergning kichik to'plamiga o'xshaydi.",
+    "C": "deklarativ mantiqiy dasturlash tili. Sintaktik jihatdan u Prologning kichik to'plamiga o'xshaydi. Datalog odatda yuqoridan pastga ifoda o'lchamlari modelini emas, balki pastdan yuqoriga qarab foydalanadi.",
+    "D": "amaliy dasturlarni yaratish uchun mo'ljallangan funktsional mantiqiy dasturlash tili."
+  },
+  {
+    "question": "SNOBOL mantiqiy dasturlash tili kimlar tomonidan ishlab chiqilgan?",
+    "A": " Ralf Grisvold, Ivan Polonskiy va AT&T Bell Labsdan Devid Farberlar",
+    "B": "Xenderson, Tomas Konvey va Zoltan Somogilar ",
+    "C": "Karl Xyuitt",
+    "D": "Merkuriy Melburan "
+  },
+  {
+    "question": "STL konteynerlari nechta kategoriyaga bo’linadi?",
+    "A": " 3 ta ketma-ket, assosativ,adapter",
+    "B": "2 ta, ketma-ket va assosativ  ",
+    "C": "kategoriyaga bo’linmaydi",
+    "D": "2 ta, adapter, assosativ"
+  },
+  {
+    "question": "STL ketma-ket konteynerlarini aniqlang?",
+    "A": " forward_list, array, list, vector, deque",
+    "B": "forward_list, map, list,vector, deque",
+    "C": "set, array, list,vector,deque",
+    "D": "forward_list,array,list,vector,stack"
+  },
+  {
+    "question": "STL assosativ konteynerlarini aniqlang?",
+    "A": " set, map, multimap, multiset",
+    "B": "forward_list, array, list, vector, deque",
+    "C": "set, array, list,vector,deque",
+    "D": "forward_list, array, list, vector, stack"
+  },
+  {
+    "question": "STL adapter konteynerlarini aniqlang?",
+    "A": " stack, queue,priohity_queue",
+    "B": "set, map, multimap, multiset",
+    "C": "set, array, list,vector,deque",
+    "D": "forward_list, array, list, vector, deque"
+  },
+  {
+    "question": "STL da iteratorlar nechta kategoriyaga bo’linadi ?",
+    "A": " 5 ta ",
+    "B": "4 ta",
+    "C": " 3 ta",
+    "D": "2 ta"
+  },
+  {
+    "question": "Quydagi konteynerlardan capsity va reserve funksiyalari aniqlanmagan konteynerni aniqlang ",
+    "A": " deque",
+    "B": "array, queue, multiset",
+    "C": "vector, set, map",
+    "D": "multimap, set, list"
+  },
+  {
+    "question": "Konteynerdan ixtiyoriy elementni o’chirish funksiyasi?",
+    "A": "erase()",
+    "B": "insert()",
+    "C": "clear()",
+    "D": "resize()"
+  },
+  {
+    "question": "STL konteynerlari da dastlabki elementga murojat qilish funksiyalarini aniqlang?",
+    "A": " begin, cbegin",
+    "B": "istream_iterator,ostream_iterator",
+    "C": "inputInt(cin), outputInt(cout)",
+    "D": "begin, cbegin, crbegin"
+  },
+  {
+    "question": "Iteratorlar nima uchun ishlatiladi",
+    "A": "Iteratorlar konteynerlarda bir elementdan ikkinchisiga o'tish uchun ishlatiladi;",
+    "B": "Iteratorlar konteynerlardagi elementlar sonini qaytaradi;",
+    "C": "Iteratorlar konteynerlar tarkibini o’zgartiradi",
+    "D": "Iteratorlar konteyner elementlarini saralaydi"
+  },
+  {
+    "question": "C/C++ dasturlashda dinamik xotirani taqsimlash osonlashtirish uchun <stdlib.h> sarlavha faylida belgilangan C++ tomonidan taqdim etilgan kutubxona Funksiya lari :",
+    "A": "malloc(), calloc(), free(), realloc();",
+    "B": "malloc(), calloc(), free(), realloc(), begin(),end();",
+    "C": "malloc(), calloc(), begin(),end();",
+    "D": "malloc(), calloc();"
+  },
+  {
+    "question": "Ixtiyoriy kompilyator tarkibi nechta  qismdan iborat:",
+    "A": "3ta",
+    "B": "2ta",
+    "C": "1ta",
+    "D": "Toʻgʻri javob yuq"
+  },
+  {
+    "question": "OYD qanday xossasi bir xil ierarxiyaning turli xil ob'ektlariga huddi birday munosabatda bo'lishga imkon beradi?",
+    "A": "polimorfizm",
+    "B": "abstraktlash",
+    "C": "meroshorlik",
+    "D": "Inkapsylyatsiya"
+  },
+  {
+    "question": "Polimorfizm quyidagi mexanizmlar orqali amalga oshiriladi:",
+    "A": "funktsiyalar, virtual funktsiyalar, shablonlarning haddan tashqari ko'payishi",
+    "B": "vazifalarni haddan tashqari yuklash, usullarni, shablonlarni meros qilib olish;",
+    "C": "usullar, virtual funktsiyalar, shablonlarni meros qilib olish",
+    "D": "ortiqcha yuklash funktsiyalari, merosxo'rlik, virtual funktsiyalar."
+  },
+  {
+    "question": "Sinfga ta’rif bering?",
+    "A": "Sinflar - bu ma'lumotlar tuzilmalarining kengaytirilgan tushunchasidir: ma'lumotlar tuzilmalari singari ularda ma'lumotlar elementlari bo'lishi mumkin, ammo ular a'zolar vazifalarini ham o'z ichiga olishi mumkin. Ob'ekt - bu sinfni o'zlashtirish. O'zgaruvchilar nuqtai nazaridan, sinf bir turga, ob'ekt esa o'zgaruvchiga aylanadi.",
+    "B": "Ma'lumotlar  tuzilmalari singari ularda ma'lumotlar elementlari bo'lishi mumkin, o'zgaruvchilar nuqtai nazaridan, sinf bir turga, ob'ekt esa o'zgaruvchiga aylanadi.",
+    "C": "Bu struct tushunchasiga o’hshaydi, ammo ular a'zolar vazifalarini ham o'z ichiga olishi mumkin. ",
+    "D": "To’gri javob mavjud emas."
+  },
+  {
+    "question": "Polimorfm sinf -",
+    "A": "tarkibida hech bo‘lmaganda bitta virtual funksiyasi bo‘lgan sinfga aytiladi",
+    "B": "tarkibida hech bo‘lmaganda ikkita virtual funksiyasi bo‘lgan ",
+    "C": "Tarkibida hech bo‘lmaganda bitta abstract sinf bo’lsa ",
+    "D": "Tarkibida hech bo‘lmaganda bitta voris sinf bo‘lgan "
+  },
+  {
+    "question": "Abstrakt sinf  obyektini yaratish mumkinmi?",
+    "A": "mumkin emas ",
+    "B": "mumkin ",
+    "C": "sharoitga qarab mumkin yoki yo’q",
+    "D": "To’gri javob mavjud emas."
+  },
+  {
+    "question": "obyekt turini oshkor ravishda abstrakt sinf turiga keltirish mum­kinmi",
+    "A": "mumkin emas",
+    "B": "mumkin ",
+    "C": "sharoitga qarab mumkin yoki yo’q",
+    "D": "To’gri javob mavjud emas."
+  },
+  {
+    "question": "Polimorfizm bu:",
+    "A": "tegishli sinflar uchun xos bo'lgan amallarni ko'rsatish uchun bitta ismdan foydalanishga imkon beradigan vosita",
+    "B": "bir xil sinfda bir xil nomdagi usullardan foydalanishga imkon beradigan vosita;",
+    "C": "bir xil amallarni bajarish uchun bir xil sinfdagi turli nomdagi usullardan foydalanishga imkon beradigan vosita",
+    "D": "funktsiyalarni turli xil turlari yoki turli xil argumentlar bilan ishlash uchun ortiqcha yuklashga imkon beradigan vosita."
+  },
+  {
+    "question": "Ob'ektga yo'naltirilgan dasturlashda polimorfizm amalga oshiriladi:",
+    "A": "qayta yuklash mexanizmlari (funktsiyalar va operatsiyalar), virtual funktsiyalar va shablonlar orqali",
+    "B": "haddan tashqari yuk mexanizmlari (funktsiyalar va operatsiyalar) va shablonlar orqali;",
+    "C": "virtual funktsiyalar va shablonlar orqali;",
+    "D": "ortiqcha mexanizmlar (funktsiyalar va operatsiyalar) va virtual funktsiyalar orqali"
+  },
+  {
+    "question": "OYD qanday xossasi bir xil ierarxiyaning turli xil ob'ektlariga huddi birday munosabatda bo'lishga imkon beradi?",
+    "A": "polimorfizm",
+    "B": "inkapsylyatsiya",
+    "C": "abstraktlash",
+    "D": "meroshorlik"
+  },
+  {
+    "question": "Polimorfizm quyidagi mexanizmlar orqali amalga oshiriladi:",
+    "A": "funktsiyalar, virtual funktsiyalar, shablonlarning haddan tashqari ko'payishi",
+    "B": "vazifalarni haddan tashqari yuklash, usullarni, shablonlarni meros qilib olish;",
+    "C": "usullar, virtual funktsiyalar, shablonlarni meros qilib olish",
+    "D": "ortiqcha yuklash funktsiyalari, merosxo'rlik, virtual funktsiyalar."
+  },
+  {
+    "question": "OOP holatida tuzilishning asosiy tamoyillari.",
+    "A": "abstraksiya",
+    "B": "inkapsulyatsiya",
+    "C": "meros",
+    "D": "barcha javoblar to'g'ri"
+  },
+  {
+    "question": "Quyidagi metodologiyalardan qaysi biri OOPga tegishli?",
+    "A": "komponentli dasturlash",
+    "B": "Prototiplash",
+    "C": "sinfga yo'naltirilgan dasturlash",
+    "D": "barcha javoblar to'g'ri"
+  },
+  {
+    "question": "Imperativ yondashuvning asosiy usuli hisoblanadi?",
+    "A": "protsessual dasturlash",
+    "B": "prototipli dasturlash",
+    "C": "komponentli dasturlash",
+    "D": "sinfga yo'naltirilgan dasturlash"
+  },
+  {
+    "question": "Imperativ dasturlash qaysi tillardan foydalanadi?",
+    "A": "past darajadagi tillar",
+    "B": "yuqori darajadagi tillar",
+    "C": "past darajadagi tillar, shuningdek, C++, Java",
+    "D": "oraliq tillar"
+  },
+  {
+    "question": "Quyidagi dasturlash usullaridan qaysi biri imperativ paradigma bilan bog'liq?",
+    "A": "funktsional",
+    "B": "protsessual",
+    "C": "kombinatsion",
+    "D": "predmetga yoʻnaltirilgan"
+  },
+  {
+    "question": "Imperativ dasturlash paradigmasi -",
+    "A": "Ushbu paradigma dastur holatini bosqichma-bosqich o'zgartiruvchi ko'rsatmalar ko'rinishidagi hisoblashlarning tavsiflarini o'z ichiga oladi.",
+    "B": "Assembler kabi past darajadagi tillarda holatlar xotira, registrlar va bayroqlar bo‘lishi mumkin. Ko'rsatmalar maqsadli protsessor tomonidan qo'llab-quvvatlanadigan buyruqlardir.",
+    "C": "C kabi yuqori darajadagi tillarda holat sof xotiradir. Bu holda ko'rsatmalar yanada murakkab bo'lishi mumkin, shuningdek, ular ishlayotganda xotirani ajratish va chiqarishga olib keladi.",
+    "D": "barcha javoblar to'g'ri"
+  },
+  {
+    "question": "Mashinalardan qaysi biri protsessual dasturlash uchun nazariy model bo'lib xizmat qiladi?",
+    "A": "Tyuring mashinasi",
+    "B": "Jozef Giarratano mashinasi",
+    "C": "Bertrand Meyer mashinasi",
+    "D": "Kardelli mashinasi"
+  },
+  {
+    "question": "Kompyuterli dasturlash hamda umumiy dasturiy paradigmalari – ...",
+    "A": "amaliy, nazariy va funksional dasturlash paradigmalaridan iborat",
+    "B": "axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "C": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "D": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan"
+  },
+  {
+    "question": "Amaliy dasturlash – bu ...",
+    "A": "kompyuterlar paydo bо‘lishidan ancha oldin о‘rganilgan axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi",
+    "B": "ilmiy nashrlarda taqdim etilgan dasturlash va informatika sohasidagi ilmiy tajribalar natijalarining aniqligi va taqqoslanishiga qaratilgan",
+    "C": "deklarativ dasturlashning bir turi bо‘lib, unda dastur yozish bir obyektni boshqasiga tizimli ravishda qо‘llashdan iborat",
+    "D": "axborotni hisoblash va raqamlarni qayta ishlashning hisoblash jarayonlarini aks ettiradigan muammoli yо‘nalishlarga bо‘ysunadi"
+  },
+  {
+    "question": "Assemblerda mov operatori qanday vazifa bajaradi?",
+    "A": "ma'lumotlarni bir joydan boshqasiga ko'chirish.",
+    "B": "ikkita qiymatni birga qo'shish.",
+    "C": "bitta qiymatni boshqa qiymatdan ayirish.",
+    "D": "ma'lumotlarni to'plamga surish."
+  },
+  {
+    "question": "Assembler tilida ADD operatori qanday vazifa bajaradi?",
+    "A": "ikkita qiymatni birga qo'shish.",
+    "B": "ma'lumotlarni bir joydan boshqasiga ko'chirish",
+    "C": "bitta qiymatni boshqa qiymatdan ayirish.",
+    "D": "ma'lumotlarni to'plamga surish."
+  },
+  {
+    "question": "Imperativ dasturlash paradigmasi bu….",
+    "A": " U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi.",
+    "B": "U kodni qayta ishlatish qobiliyatiga ega va foydalanish mumkinligi bilan farq qiladi.",
+    "C": "U bugungi kunda skript mavjud bo'lgan deyarli har qanday haqiqiy dasturlash muammosini hal qila oladi.",
+    "D": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi."
+  },
+  {
+    "question": "Protsessual dasturlash paradigmasi bu….",
+    "A": " Ushbu paradigma asosiy mashina modeli nuqtai nazaridan protseduraga urg'u beradi. Protsessual va imperativ yondashuv o'rtasida farq yo'q. U kodni qayta ishlatish qobiliyatiga ega va foydalanish mumkinligi bilan farq qiladi.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Ob'ektga yo'naltirilgan dasturlash….",
+    "A": "Eng kichik va eng asosiy ob'ekt bo'lib, barcha turdagi hisoblar faqat ob'ektlar ustida amalga oshiriladi. Jarayondan ko'ra ma'lumotlarga ko'proq e'tibor beriladi. ",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Parallel ishlov berish yondashuvi bu…….",
+    "A": " bu dastur ko'rsatmalarini bir nechta protsessorlarga bo'lish orqali qayta ishlash.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Sof funktsiyalar bu…..",
+    "A": "bu dastur ko'rsatmalarini bir nechta protsessorlarga bo'lish orqali qayta ishlash. Faqat o'z kontekstini boshqaradigan va butun dasturning global kontekstiga (holatig ta'sir qilmaydigan kod bloklari.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  },
+  {
+    "question": "Kompozit funksiyalar bu …..",
+    "A": "Bitta blok boshqasi tomonidan qaytarilgandan so’ng natijaga ta'sir qiladi.",
+    "B": "U ko'pincha dasturlarni qandaydir mantiq nazariyasi sifatida ko'radi.",
+    "C": "Ma'lumotlar bazasi dasturi biznes-axborot tizimining yuragi bo'lib, fayllarni yaratish, ma'lumotlarni kiritish, yangilash, so'rovlar va hisobot berish funktsiyalarini ta'minlaydi.",
+    "D": "U holatni o'zgartirish orqali bosqichma-bosqich vazifani bajaradi. Maqsadga qanday erishish mumkinligiga e'tibor qaratiladi."
+  }
+]
